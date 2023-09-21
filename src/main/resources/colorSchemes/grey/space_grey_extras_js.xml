@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<list>
+    <option name="JS.GLOBAL_VARIABLE">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+        <value>
+            <option name="FOREGROUND" value="FFD580"/>
+        </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="JS.PARAMETER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="JS.REGEXP">
+        <value>
+            <option name="FOREGROUND" value="95E6CB"/>
+        </value>
+    </option>
+    <option name="SPY-JS.EXCEPTION">
+        <value>
+            <option name="BACKGROUND" value="713f3f"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="SPY-JS.FUNCTION_SCOPE">
+        <value>
+            <option name="BACKGROUND" value="2e2e20"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="SPY-JS.PATH_LEVEL_ONE">
+        <value>
+            <option name="BACKGROUND" value="254226"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="SPY-JS.PATH_LEVEL_TWO">
+        <value>
+            <option name="EFFECT_TYPE" value="1"/>
+            <option name="EFFECT_COLOR" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="SPY-JS.PROGRAM_SCOPE">
+        <value>
+            <option name="BACKGROUND" value="2b2b2b"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="D9D7CE"/>
+        </value>
+    </option>
+</list>

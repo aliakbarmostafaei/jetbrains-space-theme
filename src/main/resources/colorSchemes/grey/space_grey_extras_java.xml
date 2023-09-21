@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<list>
+    <option name="JAVA_BLOCK_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option baseAttributes="TEXT" name="JAVA_BRACES"/>
+    <option baseAttributes="TEXT" name="JAVA_BRACKETS"/>
+    <option baseAttributes="TEXT" name="JAVA_COMMA"/>
+    <option name="JAVA_DOC_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="JAVA_DOC_MARKUP">
+        <value>
+            <option name="BACKGROUND" value="223f22"/>
+        </value>
+    </option>
+    <option name="JAVA_DOC_TAG">
+        <value>
+            <option name="FONT_TYPE" value="1"/>
+            <option name="EFFECT_TYPE" value="1"/>
+            <option name="EFFECT_COLOR" value="80807f"/>
+        </value>
+    </option>
+    <option baseAttributes="TEXT" name="JAVA_DOT"/>
+    <option name="JAVA_INVALID_STRING_ESCAPE">
+        <value>
+            <option name="FOREGROUND" value="FF3333"/>
+        </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="JAVA_NUMBER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="JAVA_OPERATION_SIGN">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option baseAttributes="TEXT" name="JAVA_PARENTH"/>
+    <option baseAttributes="TEXT" name="JAVA_SEMICOLON"/>
+    <option name="JAVA_STRING">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="JAVA_VALID_STRING_ESCAPE">
+        <value>
+            <option name="FOREGROUND" value="95E6CB"/>
+        </value>
+    </option>
+</list>

@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<list>
+    <option name="DJANGO_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="DJANGO_FILTER">
+        <value>
+            <option name="FOREGROUND" value="FFD580"/>
+        </value>
+    </option>
+    <option name="DJANGO_ID">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="DJANGO_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="DJANGO_NUMBER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="DJANGO_STRING_LITERAL">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="DJANGO_TAG_NAME">
+        <value>
+            <option name="FOREGROUND" value="80D4FF"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_BRACES" name="DJANGO_TAG_START_END"/>
+    <option name="DUPLICATE_FROM_SERVER">
+        <value>
+            <option name="BACKGROUND" value="30322b"/>
+        </value>
+    </option>
+</list>

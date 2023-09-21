@@ -1,0 +1,150 @@
+<?xml version='1.0'?>
+<list>
+    <option name="RUBY_BAD_CHARACTER">
+        <value>
+            <option name="FOREGROUND" value="FF3333"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_BRACKETS" name="RUBY_BRACKETS"/>
+    <option baseAttributes="DEFAULT_SEMICOLON" name="RUBY_COLON"/>
+    <option baseAttributes="DEFAULT_COMMA" name="RUBY_COMMA"/>
+    <option name="RUBY_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="RUBY_CONSTANT">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="RUBY_CONSTANT_DECLARATION">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="RUBY_CVAR">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_DOT" name="RUBY_DOT"/>
+    <option name="RUBY_ESCAPE_SEQUENCE">
+        <value>
+            <option name="FOREGROUND" value="95E6CB"/>
+        </value>
+    </option>
+    <option name="RUBY_EXPR_IN_STRING">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="RUBY_GVAR">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="RUBY_HASH_ASSOC">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="RUBY_HEREDOC_CONTENT">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="RUBY_IDENTIFIER">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="RUBY_INTERPOLATED_STRING">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
+        <value>
+            <option name="FOREGROUND" value="FF3333"/>
+        </value>
+    </option>
+    <option name="RUBY_IVAR">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="RUBY_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="RUBY_LINE_CONTINUATION">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+        <value>
+            <option name="FOREGROUND" value="FFD580"/>
+        </value>
+    </option>
+    <option baseAttributes="TEXT" name="RUBY_NTH_REF"/>
+    <option name="RUBY_NUMBER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="RUBY_OPERATION_SIGN">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="RUBY_PARAMDEF_CALL">
+        <value>
+            <option name="FOREGROUND" value="FFD580"/>
+        </value>
+    </option>
+    <option name="RUBY_PARAMETER_ID">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="RUBY_REGEXP">
+        <value>
+            <option name="FOREGROUND" value="95E6CB"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_SEMICOLON" name="RUBY_SEMICOLON"/>
+    <option name="RUBY_SPECIFIC_CALL">
+        <value>
+            <option name="FOREGROUND" value="D9D7CE"/>
+        </value>
+    </option>
+    <option name="RUBY_STRING">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="RUBY_SYMBOL">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+    <option name="RUBY_WORDS">
+        <value>
+            <option name="FOREGROUND" value="BAE67E"/>
+        </value>
+    </option>
+</list>

@@ -1,0 +1,172 @@
+{
+  "name": "Space Grey",
+  "dark": true,
+  "author": "Ali Akbar Mostafāëi",
+  "editorScheme": "/colorSchemes/grey/space_grey.xml",
+  "colors": {
+    "alphaOverlay": "#ffffff30",
+    "charcoalDark": "#1a1e28",
+    "charcoal": "#1f2430",
+    "charcoalLight": "#303749",
+    "comet": "#424c5e",
+    "stargazer": "#414449",
+    "abbey": "#54585e",
+    "clouds": "#7c8086",
+    "dolphin": "#cccac2",
+    "blueberry": "#253042",
+    "ocean": "#304d78",
+    "apple": "#6cbf43",
+    "emerald": "#45c968",
+    "magicMint": "#95e6cb",
+    "turquoise": "#5ccfe6",
+    "maya": "#99d6ff",
+    "malibu": "#638fbd",
+    "beauBlue": "#6b7784",
+    "coral": "#b35e66",
+    "peach": "#f28779",
+    "mango": "#ffad66",
+    "sands": "#f29e74",
+    "dandelion": "#ffd173",
+    "navajoWhite": "#ffdfb3",
+    "crayola": "#ffcc66",
+    "cinnamon": "#442d00",
+    "lavendar": "#C793FF",
+    "mauve": "#C5ACFA",
+    "flamingo": "#e65050",
+    "pastelRed": "#ff6666"
+
+  },
+  "icons": {
+  },
+  "ui": {
+    "*": {
+      "background": "charcoal",
+      "foreground": "dolphin",
+      "borderColor": "charcoal",
+      "selectionBackground": "charcoalLight",
+      "selectionForeground": "dolphin",
+      "disabledForeground": "abbey",
+      "disabledText": "abbey",
+      "hoverBackground": "comet",
+      "hoverBorderColor": "comet"
+    },
+    "Borders": {
+      "color": "charcoal",
+      "ContrastBorderColor": "charcoal"
+    },
+    "Menu": {
+      "acceleratorForeground": "dolphin",
+      "acceleratorSelectionForeground": "charcoal",
+      "Selection": {
+        "arc": 4.0
+      }
+    },
+    "MenuItem": {
+      "acceleratorForeground": "dolphin"
+    },
+    "ActionButton": {
+      "pressedBackground": "ocean",
+      "pressedBorderColor": "ocean"
+    },
+    "CompletionPopup": {
+      "matchForeground": "charcoal",
+      "selectionBackground": "malibu",
+      "selectionInactiveBackground": "beauBlue"
+    },
+    "Component": {
+      "errorFocusColor": "pastelRed",
+      "borderColor": "charcoalLight",
+      "focusColor": "comet",
+      "focusedBorderColor": "comet",
+      "focusWidth": 1.0
+    },
+    "Plugins": {
+      "Button": {
+        "installForeground": "dolphin",
+        "installFillForeground": "cinnamon",
+        "installBorderColor": "crayola",
+        "installFillBackground": "crayola",
+        "installFocusedBackground": "crayola",
+        "updateBackground": "crayola",
+        "updateBorderColor": "crayola",
+        "updateForeground": "cinnamon"
+      }
+    },
+    "CheckBox": {
+      "select": "crayola"
+    },
+    "Counter": {
+      "background": "crayola",
+      "foreground": "charcoal"
+    },
+    "IconBadge": {
+      "infoBackground": "crayola",
+      "successBackground": "turquoise",
+      "warningBackground": "peach",
+      "errorBackground": "flamingo"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "comet",
+      "usedBackground": "charcoalLight"
+    },
+    "ComboBox": {
+      "ArrowButton.iconColor": "clouds",
+      "ArrowButton.disabledIconColor": "stargazer",
+      "ArrowButton.background": "charcoalLight",
+      "ArrowButton.nonEditableBackground": "charcoalLight",
+      "nonEditableBackground": "charcoalLight"
+    },
+    "Button": {
+      "foreground": "dolphin",
+      "startBackground": "charcoal",
+      "endBackground": "charcoal",
+      "startBorderColor": "crayola",
+      "endBorderColor": "crayola",
+      "focusedBorderColor": "crayola",
+      "disabledText": "abbey",
+      "shadowWidth": 0,
+      "default": {
+        "foreground": "cinnamon",
+        "startBackground": "crayola",
+        "endBackground": "crayola",
+        "startBorderColor": "crayola",
+        "endBorderColor": "crayola",
+        "focusedBorderColor": "crayola",
+        "shadowColor": "charcoal"
+      }
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "charcoal",
+      "underlineColor": "crayola",
+      "inactiveUnderlineColor": "coral",
+      "hoverBackground": "charcoalLight"
+    },
+    "Separator.separatorColor": "charcoalLight",
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "charcoal",
+        "borderColor": "charcoalLight"
+      },
+      "Button": {
+        "selectedBackground": "crayola",
+        "selectedForeground": "charcoal"
+      }
+    },
+    "RunWidget": {
+      "runIconColor": "emerald",
+      "runningBackground": "emerald",
+      "stopBackground": "flamingo",
+      "hoverBackground": "alphaOverlay"
+    },
+    "Notification": {
+      "background": "charcoalLight",
+      "borderColor": "charcoalLight",
+      "errorBorderColor": "pastelRed",
+      "arc": 4.0,
+      "Button": {
+        "background": "crayola",
+        "foreground": "cinnamon"
+      }
+    }
+  }
+}
