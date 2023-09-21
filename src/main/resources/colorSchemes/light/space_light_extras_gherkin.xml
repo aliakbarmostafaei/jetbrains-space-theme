@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<list>
+    <option name="GHERKIN_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="ABB0B6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="GHERKIN_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+        </value>
+    </option>
+    <option name="GHERKIN_PYSTRING">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="GHERKIN_REGEXP_PARAMETER">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option baseAttributes="GHERKIN_TEXT" name="GHERKIN_TABLE_CELL"/>
+    <option name="GHERKIN_TABLE_HEADER_CELL">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+        </value>
+    </option>
+    <option name="GHERKIN_TABLE_PIPE">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="GHERKIN_TAG">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+</list>

@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<list>
+    <option name="HAML_CLASS">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="HAML_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="ABB0B6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option baseAttributes="HAML_TEXT" name="HAML_FILTER"/>
+    <option baseAttributes="HAML_TEXT" name="HAML_FILTER_CONTENT"/>
+    <option name="HAML_ID">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option baseAttributes="HAML_TEXT" name="HAML_LINE_CONTINUATION"/>
+    <option baseAttributes="DEFAULT_PARENTHS" name="HAML_PARENTHS"/>
+    <option baseAttributes="HAML_TEXT" name="HAML_RUBY_CODE"/>
+    <option baseAttributes="HAML_TEXT" name="HAML_RUBY_START"/>
+    <option name="HAML_STRING">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="HAML_STRING_INTERPOLATED">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="HAML_TAG">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="HAML_TAG_NAME">
+        <value>
+            <option name="FOREGROUND" value="E7C547"/>
+        </value>
+    </option>
+    <option baseAttributes="TEXT" name="HAML_TEXT"/>
+    <option baseAttributes="HAML_TEXT" name="HAML_WS_REMOVAL"/>
+    <option baseAttributes="HAML_TEXT" name="HAML_XHTML"/>
+    <option name="HTML_ATTRIBUTE_NAME">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+            <option name="FONT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="HTML_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="ABB0B6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+        <value>
+            <option name="FOREGROUND" value="A37ACC"/>
+            <option name="FONT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="HTML_TAG">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+        <value>
+            <option name="FOREGROUND" value="E7C547"/>
+        </value>
+    </option>
+</list>

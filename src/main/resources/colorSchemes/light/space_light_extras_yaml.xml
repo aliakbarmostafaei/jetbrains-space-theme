@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+<list>
+    <option name="YAML_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="ABB0B6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="YAML_SCALAR_LIST">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="YAML_SIGN">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="YAML_TEXT">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+</list>

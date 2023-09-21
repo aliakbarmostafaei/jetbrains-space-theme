@@ -7,7 +7,21 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="278be86d-83f8-49be-89d6-08aa13e411f1" path="/themes/space_light.theme.json"/>
 
+        <!--   Language-specific light color schemes     -->
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_coffeescript.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_css_sass.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_django.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_gherkin.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_html.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_java.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_js.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_puppet.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_python.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_ruby.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_xml.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_yaml.xml"/>
     </extensions>
 
 </idea-plugin>
