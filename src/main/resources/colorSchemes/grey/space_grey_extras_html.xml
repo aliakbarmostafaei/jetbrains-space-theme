@@ -24,12 +24,12 @@
     <option baseAttributes="HAML_TEXT" name="HAML_RUBY_START"/>
     <option name="HAML_STRING">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="HAML_STRING_INTERPOLATED">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="HAML_TAG">
@@ -52,7 +52,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
             <option name="FONT_TYPE" value="1"/>
         </value>
     </option>

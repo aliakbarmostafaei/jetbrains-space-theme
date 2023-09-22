@@ -45,12 +45,12 @@
         </option>
         <option name="BUILDOUT.SECTION_NAME">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="BUILDOUT.VALUE">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="CLASS_NAME_ATTRIBUTES"/>
@@ -135,7 +135,7 @@
         </option>
         <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="fda5ff"/>
+                <option name="FOREGROUND" value="B489CC"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
@@ -165,12 +165,12 @@
         </option>
         <option name="CUSTOM_NUMBER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="CUSTOM_STRING_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
@@ -195,7 +195,7 @@
         <option baseAttributes="TEXT" name="DEFAULT_BRACKETS"/>
         <option name="DEFAULT_CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="DEFAULT_COMMA"/>
@@ -221,7 +221,7 @@
         <option baseAttributes="TEXT" name="DEFAULT_DOT"/>
         <option name="DEFAULT_ENTITY">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
@@ -254,7 +254,7 @@
         </option>
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -286,7 +286,7 @@
         </option>
         <option name="DEFAULT_NUMBER">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
@@ -296,7 +296,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="DEFAULT_PARENTHS"/>
@@ -319,7 +319,7 @@
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="72D782"/>
             </value>
         </option>
         <option name="DEFAULT_TAG">
@@ -365,7 +365,7 @@
         </option>
         <option name="ENUM_CONST">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="ERRORS_ATTRIBUTES">
@@ -416,12 +416,12 @@
         <option baseAttributes="TEXT" name="GHERKIN_TEXT"/>
         <option name="GQL_ID">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="GQL_INT_LITERAL">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="GQL_KEYWORD">
@@ -431,7 +431,7 @@
         </option>
         <option name="GQL_STRING_LITERAL">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="HYPERLINK_ATTRIBUTES">
@@ -450,7 +450,7 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="fda5ff"/>
+                <option name="FOREGROUND" value="B489CC"/>
             </value>
         </option>
         <option name="INFO_ATTRIBUTES">
@@ -467,7 +467,7 @@
         </option>
         <option name="INSTANCE_FIELD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="fda5ff"/>
+                <option name="FOREGROUND" value="B489CC"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
@@ -478,7 +478,7 @@
         </option>
         <option name="JADE_FILE_PATH">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option baseAttributes="DEFAULT_LABEL" name="JADE_FILTER_NAME"/>
@@ -578,13 +578,13 @@
         </option>
         <option name="OC.NUMBER">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option baseAttributes="OC.DOT" name="OC.OPERATION_SIGN"/>
         <option name="OC.PARAMETER">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option baseAttributes="OC.DOT" name="OC.PARENTHS"/>
@@ -602,17 +602,17 @@
         <option baseAttributes="OC.DOT" name="OC.SEMICOLON"/>
         <option name="OC.STRING">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="OC.STRUCT_FIELD">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="OC_FORMAT_TOKEN">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="PARAMETER_ATTRIBUTES"/>
@@ -664,12 +664,12 @@
         </option>
         <option name="REST.REF.NAME">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="REST.SECTION.HEADER">
             <value>
-                <option name="FOREGROUND" value="C5ACFA"/>
+                <option name="FOREGROUND" value="D1BAFF"/>
             </value>
         </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -712,7 +712,7 @@
         </option>
         <option name="SLIM_INTERPOLATION">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option baseAttributes="DEFAULT_PARENTHS" name="SLIM_PARENTHS"/>
@@ -720,7 +720,7 @@
         <option baseAttributes="TEXT" name="SLIM_STATIC_CONTENT"/>
         <option name="SLIM_STRING_INTERPOLATED">
             <value>
-                <option name="FOREGROUND" value="BAE67E"/>
+                <option name="FOREGROUND" value="cccac2"/>
             </value>
         </option>
         <option name="SLIM_TAG">
@@ -741,7 +741,7 @@
         <option baseAttributes="TEXT" name="SPY-JS.VALUE_HINT"/>
         <option name="STATIC_FIELD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="fda5ff"/>
+                <option name="FOREGROUND" value="B489CC"/>
                 <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
@@ -795,6 +795,12 @@
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="623062"/>
+            </value>
+        </option>
+        <option name="JSON.PROPERTY_KEY">
+            <value>
+                <option name="FOREGROUND" value="ffad66"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
     </attributes>

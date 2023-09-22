@@ -37,7 +37,7 @@
     </option>
     <option name="RUBY_EXPR_IN_STRING">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="RUBY_GVAR">
@@ -52,7 +52,7 @@
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
@@ -67,7 +67,7 @@
     </option>
     <option name="RUBY_INTERPOLATED_STRING">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
@@ -134,17 +134,17 @@
     </option>
     <option name="RUBY_STRING">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="RUBY_SYMBOL">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="RUBY_WORDS">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
 </list>

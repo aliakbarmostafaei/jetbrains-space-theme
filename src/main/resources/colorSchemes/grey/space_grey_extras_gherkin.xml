@@ -18,12 +18,12 @@
     </option>
     <option name="GHERKIN_PYSTRING">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option name="GHERKIN_REGEXP_PARAMETER">
         <value>
-            <option name="FOREGROUND" value="BAE67E"/>
+            <option name="FOREGROUND" value="cccac2"/>
         </value>
     </option>
     <option baseAttributes="GHERKIN_TEXT" name="GHERKIN_TABLE_CELL"/>
