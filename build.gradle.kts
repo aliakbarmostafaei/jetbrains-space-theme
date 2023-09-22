@@ -1,8 +1,29 @@
 import org.jetbrains.changelog.Changelog
 import org.jetbrains.changelog.markdownToHTML
+import java.io.FileInputStream
+import java.io.FileNotFoundException
+import java.util.*
 
 fun properties(key: String) = providers.gradleProperty(key)
 fun environment(key: String) = providers.environmentVariable(key)
+fun secretProperties(key: String, base64Encoded: Boolean, secretFile: String = "secrets.properties"): String {
+    val file = rootProject.file(secretFile)
+    if (file.exists()) {
+        val properties = Properties()
+        properties.load(FileInputStream(file))
+        println("Looking for $key in $secretFile")
+        val secret = properties.getProperty(key)
+
+        return if (base64Encoded) {
+            val decodedBytes = Base64.getDecoder().decode(secret)
+            String(decodedBytes, Charsets.UTF_8)
+        } else {
+            secret
+        }
+    } else {
+        throw FileNotFoundException()
+    }
+}
 
 plugins {
     id("java") // Java support
@@ -112,13 +133,27 @@ tasks {
 
     signPlugin {
         certificateChain = environment("CERTIFICATE_CHAIN")
+        if (!certificateChain.isPresent) {
+            certificateChain.set(secretProperties(key="CERTIFICATE_CHAIN", base64Encoded = true))
+        }
+
         privateKey = environment("PRIVATE_KEY")
+        if (!privateKey.isPresent) {
+            privateKey.set(secretProperties(key = "PRIVATE_KEY", base64Encoded = true))
+        }
+
         password = environment("PRIVATE_KEY_PASSWORD")
+        if (!password.isPresent) {
+            password.set(secretProperties(key = "PRIVATE_KEY_PASSWORD", base64Encoded = false))
+        }
     }
 
     publishPlugin {
         dependsOn("patchChangelog")
         token = environment("PUBLISH_TOKEN")
+        if (!token.isPresent) {
+            token.set(secretProperties(key = "PUBLISH_TOKEN", base64Encoded = false))
+        }
         // The pluginVersion is based on the SemVer (https://semver.org) and supports pre-release labels, like 2.1.7-alpha.3
         // Specify pre-release label to publish the plugin in a custom Release Channel automatically. Read more:
         // https://plugins.jetbrains.com/docs/intellij/deployment.html#specifying-a-release-channel
