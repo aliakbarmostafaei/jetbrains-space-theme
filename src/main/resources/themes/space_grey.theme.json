@@ -5,6 +5,7 @@
   "editorScheme": "/colorSchemes/grey/space_grey.xml",
   "colors": {
     "alphaOverlay": "#ffffff30",
+    "alphaOverlayDarken": "#00000020",
     "charcoalDark": "#1a1e28",
     "charcoal": "#1f2430",
     "charcoalLight": "#242936",
@@ -58,6 +59,7 @@
       "color": "charcoal",
       "ContrastBorderColor": "charcoal"
     },
+    "Separator.separatorColor": "charcoalLight",
     "Menu": {
       "background": "charcoalLight",
       "borderColor": "charcoalLight",
@@ -82,34 +84,8 @@
       "focusedBorderColor": "charcoal",
       "focusWidth": 1.0
     },
-    "Plugins": {
-      "Button": {
-        "installForeground": "dolphin",
-        "installFillForeground": "cinnamon",
-        "installBorderColor": "crayola",
-        "installFillBackground": "crayola",
-        "installFocusedBackground": "crayola",
-        "updateBackground": "crayola",
-        "updateBorderColor": "crayola",
-        "updateForeground": "cinnamon"
-      }
-    },
     "CheckBox": {
       "select": "crayola"
-    },
-    "Counter": {
-      "background": "crayola",
-      "foreground": "charcoal"
-    },
-    "IconBadge": {
-      "infoBackground": "crayola",
-      "successBackground": "turquoise",
-      "warningBackground": "peach",
-      "errorBackground": "flamingo"
-    },
-    "MemoryIndicator": {
-      "allocatedBackground": "comet",
-      "usedBackground": "charcoalLight"
     },
     "ComboBox": {
       "ArrowButton.iconColor": "clouds",
@@ -145,9 +121,9 @@
       "underlinedTabBackground": "charcoal",
       "underlineColor": "crayola",
       "inactiveUnderlineColor": "coral",
+      "inactiveColoredFileBackground": "alphaOverlayDarken",
       "hoverBackground": "charcoalLight"
     },
-    "Separator.separatorColor": "charcoalLight",
     "ToolWindow": {
       "Header": {
         "inactiveBackground": "charcoal",
@@ -164,6 +140,20 @@
       "stopBackground": "flamingo",
       "hoverBackground": "alphaOverlay"
     },
+    "Counter": {
+      "background": "crayola",
+      "foreground": "charcoal"
+    },
+    "IconBadge": {
+      "infoBackground": "crayola",
+      "successBackground": "turquoise",
+      "warningBackground": "peach",
+      "errorBackground": "flamingo"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "comet",
+      "usedBackground": "charcoalLight"
+    },
     "Notification": {
       "background": "charcoalLight",
       "borderColor": "charcoalLight",
@@ -171,6 +161,18 @@
       "Button": {
         "background": "crayola",
         "foreground": "cinnamon"
+      }
+    },
+    "Plugins": {
+      "Button": {
+        "installForeground": "dolphin",
+        "installFillForeground": "cinnamon",
+        "installBorderColor": "crayola",
+        "installFillBackground": "crayola",
+        "installFocusedBackground": "crayola",
+        "updateBackground": "crayola",
+        "updateBorderColor": "crayola",
+        "updateForeground": "cinnamon"
       }
     },
     "FileColor": {

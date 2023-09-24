@@ -46,8 +46,8 @@
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="393b40"/>
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="393b40"/>
 
-        <option name="NOTIFICATION_BACKGROUND" value="25324d"/>
-        <option name="PROMOTION_PANE" value="25324d"/>
+        <option name="NOTIFICATION_BACKGROUND" value="242936"/>
+        <option name="PROMOTION_PANE" value="242936"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22"/>
 
         <option name="WHITESPACES" value="6f737a"/>
@@ -60,7 +60,7 @@
     <attributes>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="cccac2"/>
+                <option name="FOREGROUND" value="d5d3cb"/>
                 <option name="BACKGROUND" value="1f2430"/>
             </value>
         </option>
@@ -143,12 +143,12 @@
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="FF3333"/>
+                <option name="FOREGROUND" value="e65050"/>
             </value>
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="FFAE57"/>
+                <option name="FOREGROUND" value="ffad66"/>
             </value>
         </option>
         <option baseAttributes="DEFAULT_IDENTIFIER" name="DEFAULT_LABEL"/>
@@ -219,7 +219,7 @@
         </option>
         <option name="BAD_CHARACTER">
             <value>
-                <option name="FOREGROUND" value="FF3333"/>
+                <option name="FOREGROUND" value="e65050"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
