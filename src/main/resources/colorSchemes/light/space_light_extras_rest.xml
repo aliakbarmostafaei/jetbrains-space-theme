@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<list>
+    <option name="REST.BOLD">
+        <value>
+            <option name="FONT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="REST.EXPLICIT">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="REST.FIELD">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="REST.FIXED">
+        <value>
+            <option name="BACKGROUND" value="d9d9f0"/>
+        </value>
+    </option>
+    <option name="REST.INLINE">
+        <value>
+            <option name="BACKGROUND" value="edfced"/>
+        </value>
+    </option>
+    <option name="REST.INTERPRETED">
+        <value>
+            <option name="BACKGROUND" value="cadaba"/>
+        </value>
+    </option>
+    <option name="REST.ITALIC">
+        <value>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="REST.LINE_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="ABB0B6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="REST.REF.NAME">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="REST.SECTION.HEADER">
+        <value>
+            <option name="FOREGROUND" value="A37ACC"/>
+        </value>
+    </option>
+</list>

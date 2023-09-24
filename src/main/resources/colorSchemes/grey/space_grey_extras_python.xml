@@ -108,4 +108,32 @@
             <option name="FOREGROUND" value="C793FF"/>
         </value>
     </option>
+
+    <!-- Buildout -->
+    <option name="BUILDOUT.KEY">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="BUILDOUT.LINE_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="BUILDOUT.SECTION_NAME">
+        <value>
+            <option name="FOREGROUND" value="D1BAFF"/>
+        </value>
+    </option>
+    <option name="BUILDOUT.VALUE">
+        <value>
+            <option name="FOREGROUND" value="cccac2"/>
+        </value>
+    </option>
 </list>

@@ -1,14 +1,18 @@
 <?xml version='1.0'?>
 <list>
+    <option baseAttributes="TEXT" name="JAVA_BRACES"/>
+    <option baseAttributes="TEXT" name="JAVA_BRACKETS"/>
+    <option baseAttributes="TEXT" name="JAVA_COMMA"/>
+    <option baseAttributes="TEXT" name="JAVA_DOT"/>
+    <option baseAttributes="TEXT" name="JAVA_PARENTH"/>
+    <option baseAttributes="TEXT" name="JAVA_SEMICOLON"/>
+
     <option name="JAVA_BLOCK_COMMENT">
         <value>
             <option name="FOREGROUND" value="5C6773"/>
             <option name="FONT_TYPE" value="2"/>
         </value>
     </option>
-    <option baseAttributes="TEXT" name="JAVA_BRACES"/>
-    <option baseAttributes="TEXT" name="JAVA_BRACKETS"/>
-    <option baseAttributes="TEXT" name="JAVA_COMMA"/>
     <option name="JAVA_DOC_COMMENT">
         <value>
             <option name="FOREGROUND" value="5C6773"/>
@@ -27,7 +31,7 @@
             <option name="EFFECT_COLOR" value="80807f"/>
         </value>
     </option>
-    <option baseAttributes="TEXT" name="JAVA_DOT"/>
+
     <option name="JAVA_INVALID_STRING_ESCAPE">
         <value>
             <option name="FOREGROUND" value="FF3333"/>
@@ -54,8 +58,6 @@
             <option name="FOREGROUND" value="FFAE57"/>
         </value>
     </option>
-    <option baseAttributes="TEXT" name="JAVA_PARENTH"/>
-    <option baseAttributes="TEXT" name="JAVA_SEMICOLON"/>
     <option name="JAVA_STRING">
         <value>
             <option name="FOREGROUND" value="cccac2"/>

@@ -27,6 +27,9 @@
             <option name="FOREGROUND" value="4DBF99"/>
         </value>
     </option>
+
+    <!--  Spy-JS  -->
+    <option baseAttributes="TEXT" name="SPY-JS.VALUE_HINT"/>
     <option name="SPY-JS.EXCEPTION">
         <value>
             <option name="BACKGROUND" value="fecccc"/>
@@ -59,6 +62,20 @@
             <option name="BACKGROUND" value="fefefe"/>
             <option name="EFFECT_TYPE" value="2"/>
             <option name="EFFECT_COLOR" value="5C6773"/>
+        </value>
+    </option>
+
+    <!--  Jade  -->
+    <option name="JADE_FILE_PATH">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_LABEL" name="JADE_FILTER_NAME"/>
+    <option baseAttributes="DEFAULT_IDENTIFIER" name="JADE_JS_BLOCK"/>
+    <option name="JADE_STATEMENTS">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
         </value>
     </option>
 </list>

@@ -7,20 +7,21 @@
     "alphaOverlay": "#ffffff30",
     "charcoalDark": "#1a1e28",
     "charcoal": "#1f2430",
-    "charcoalLight": "#303749",
-    "comet": "#424c5e",
+    "charcoalLight": "#242936",
+    "comet": "#363f4f",
     "stargazer": "#414449",
     "abbey": "#54585e",
     "clouds": "#7c8086",
-    "dolphin": "#cccac2",
+    "dolphin": "#d5d3cb",
     "blueberry": "#253042",
     "ocean": "#304d78",
     "apple": "#6cbf43",
+    "emerald2": "#344c34",
     "emerald": "#45c968",
     "pastelGreen": "#72D782",
     "magicMint": "#95e6cb",
     "turquoise": "#5ccfe6",
-    "maya": "#99d6ff",
+    "maya": "#3dabfc",
     "malibu": "#638fbd",
     "beauBlue": "#6b7784",
     "coral": "#b35e66",
@@ -43,50 +44,42 @@
       "background": "charcoal",
       "foreground": "dolphin",
       "borderColor": "charcoal",
-      "selectionBackground": "charcoalLight",
+      "selectionBackground": "comet",
       "selectionForeground": "dolphin",
+      "acceleratorForeground": "clouds",
+      "acceleratorSelectionForeground": "clouds",
       "disabledForeground": "abbey",
       "disabledText": "abbey",
       "hoverBackground": "comet",
-      "hoverBorderColor": "comet"
-    },
-    "FileColor": {
-      "Yellow": "#312E23",
-      "Blue": "#232936",
-      "Gray": "#313030",
-      "Green": "#282f29",
-      "Orange": "#362A22",
-      "Rose": "#312327",
-      "Violet": "#24242F"
+      "hoverBorderColor": "comet",
+      "arc": 4.0
     },
     "Borders": {
       "color": "charcoal",
       "ContrastBorderColor": "charcoal"
     },
     "Menu": {
-      "acceleratorForeground": "dolphin",
-      "acceleratorSelectionForeground": "charcoal",
-      "Selection": {
-        "arc": 4.0
-      }
+      "background": "charcoalLight",
+      "borderColor": "charcoalLight",
+      "separatorColor": "charcoalLight"
     },
-    "MenuItem": {
-      "acceleratorForeground": "dolphin"
+    "PopupMenu": {
+      "translucentBackground": "charcoalLight",
+      "background": "charcoalLight"
     },
-    "ActionButton": {
-      "pressedBackground": "ocean",
-      "pressedBorderColor": "ocean"
+    "Popup": {
+      "inactiveBorderColor": "charcoal",
+      "innerBorderColor": "charcoal"
     },
     "CompletionPopup": {
-      "matchForeground": "charcoal",
-      "selectionBackground": "malibu",
-      "selectionInactiveBackground": "beauBlue"
+      "matchForeground": "peach",
+      "selectionInactiveBackground": "comet"
     },
     "Component": {
       "errorFocusColor": "pastelRed",
-      "borderColor": "charcoalLight",
-      "focusColor": "comet",
-      "focusedBorderColor": "comet",
+      "borderColor": "comet",
+      "focusColor": "crayola",
+      "focusedBorderColor": "charcoal",
       "focusWidth": 1.0
     },
     "Plugins": {
@@ -144,6 +137,10 @@
         "shadowColor": "charcoal"
       }
     },
+    "ActionButton": {
+      "pressedBackground": "ocean",
+      "pressedBorderColor": "ocean"
+    },
     "EditorTabs": {
       "underlinedTabBackground": "charcoal",
       "underlineColor": "crayola",
@@ -171,11 +168,19 @@
       "background": "charcoalLight",
       "borderColor": "charcoalLight",
       "errorBorderColor": "pastelRed",
-      "arc": 4.0,
       "Button": {
         "background": "crayola",
         "foreground": "cinnamon"
       }
+    },
+    "FileColor": {
+      "Yellow": "#312E23",
+      "Blue": "#232936",
+      "Gray": "#313030",
+      "Green": "#282f29",
+      "Orange": "#362A22",
+      "Rose": "#312327",
+      "Violet": "#24242F"
     }
   }
 }

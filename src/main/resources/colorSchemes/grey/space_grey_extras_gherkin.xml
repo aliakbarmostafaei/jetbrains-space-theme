@@ -1,5 +1,6 @@
 <?xml version='1.0'?>
 <list>
+    <option baseAttributes="TEXT" name="GHERKIN_TEXT"/>
     <option name="GHERKIN_COMMENT">
         <value>
             <option name="FOREGROUND" value="5C6773"/>
