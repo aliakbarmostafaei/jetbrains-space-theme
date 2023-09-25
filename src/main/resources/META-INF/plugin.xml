@@ -19,6 +19,7 @@
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_css_sass.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_django.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_gherkin.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_go.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_gql.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_html.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_java.xml"/>
