@@ -57,6 +57,41 @@
                 <option name="BACKGROUND" value="fcf9ec"/>
             </value>
         </option>
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes=""/>
+        <option name="BREADCRUMBS_CURRENT">
+            <value>
+                <option name="FOREGROUND" value="0"/>
+                <option name="BACKGROUND" value="fcfcfc"/>
+            </value>
+        </option>
+        <option name="BREADCRUMBS_DEFAULT">
+            <value>
+                <option name="FOREGROUND" value="5c6166"/>
+            </value>
+        </option>
+        <option name="BREADCRUMBS_HOVERED">
+            <value>
+                <option name="FOREGROUND" value="0"/>
+                <option name="BACKGROUND" value="fcfcfc"/>
+            </value>
+        </option>
+        <option name="BREADCRUMBS_INACTIVE">
+            <value>
+                <option name="FOREGROUND" value="aeafb3"/>
+            </value>
+        </option>
+        <option name="CODE_LENS_BORDER_COLOR">
+            <value>
+                <option name="EFFECT_COLOR" value="aeafb3"/>
+            </value>
+        </option>
+        <option name="CTRL_CLICKABLE">
+            <value>
+                <option name="FOREGROUND" value="6dcc"/>
+                <option name="EFFECT_COLOR" value="6dcc"/>
+                <option name="EFFECT_TYPE" value="1"/>
+            </value>
+        </option>
         <option name="BAD_CHARACTER">
             <value>
                 <option name="FOREGROUND" value="FF3333"/>
@@ -228,6 +263,12 @@
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="ABB0B6"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+            <value>
+                <option name="FOREGROUND" value="3d3d3d"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -480,6 +521,16 @@
                 <option name="BACKGROUND" value="99ccff"/>
             </value>
         </option>
+        <option name="MATCHED_TAG_NAME">
+            <value>
+                <option name="BACKGROUND" value="bae1f1"/>
+            </value>
+        </option>
+        <option name="List/map to object conversion">
+            <value>
+                <option name="FOREGROUND" value="ff"/>
+            </value>
+        </option>
         <option name="MESSAGE_ARGUMENT">
             <value>
                 <option name="FOREGROUND" value="F29718"/>
@@ -508,8 +559,15 @@
                 <option name="FONT_TYPE" value="3"/>
             </value>
         </option>
+        <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes=""/>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
+        </option>
+        <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="e65050"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -549,6 +607,11 @@
                 <option name="ERROR_STRIPE_COLOR" value="ffff00"/>
             </value>
         </option>
+        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="7e8a"/>
+            </value>
+        </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="ffe4ff"/>
@@ -561,4 +624,24 @@
             </value>
         </option>
     </attributes>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+        <value>
+            <option name="FOREGROUND" value="e65050"/>
+        </value>
+    </option>
+    <option name="XPATH.FUNCTION">
+        <value>
+            <option name="FOREGROUND" value="3c73ab"/>
+        </value>
+    </option>
+    <option name="XPATH.KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="3c73ab"/>
+        </value>
+    </option>
+    <option name="XPATH.XPATH_NAME">
+        <value>
+            <option name="FOREGROUND" value="22a4e6"/>
+        </value>
+    </option>
 </scheme>

@@ -1,5 +1,10 @@
 <?xml version='1.0'?>
 <list>
+    <option name="YAML_ANCHOR">
+        <value>
+            <option name="FOREGROUND" value="e6"/>
+        </value>
+    </option>
     <option name="YAML_COMMENT">
         <value>
             <option name="FOREGROUND" value="ABB0B6"/>
