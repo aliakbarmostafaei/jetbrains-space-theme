@@ -44,10 +44,14 @@
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_java.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_js.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_json.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_kotlin.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_markdown.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_objectivec.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_properties.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_puppet.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_python.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_rest.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_rust.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_ruby.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_slim.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_xml.xml"/>
