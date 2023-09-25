@@ -7,6 +7,7 @@
 <!-- Plugin description -->
 A clean, minimal and elegant theme with colors carefully chosen to reduce visual load and eye strain.
 
+
 Offered in three colors (Light, Grey, and Dark) and two UI variants (Regular and Contrast)
 <!-- Plugin description end -->
 
