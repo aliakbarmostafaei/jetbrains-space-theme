@@ -13,7 +13,7 @@
         <option name="DOC_COMMENT_LINK" value="3887a1"/>
         <option name="RECENT_LOCATIONS_SELECTION" value="E7EFFD"/>s
 
-        <option name="GUTTER_BACKGROUND" value="FAFAFA"/>
+        <option name="GUTTER_BACKGROUND" value="fcf9ec"/>
         <option name="INDENT_GUIDE" value="DEDDDC"/>
         <option name="SELECTED_INDENT_GUIDE" value="B3B2B1"/>
         <option name="VISUAL_INDENT_GUIDE" value="dae6fd"/>
@@ -54,7 +54,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="3c3f54"/>
-                <option name="BACKGROUND" value="fffefe"/>
+                <option name="BACKGROUND" value="fcf9ec"/>
             </value>
         </option>
         <option name="BAD_CHARACTER">
