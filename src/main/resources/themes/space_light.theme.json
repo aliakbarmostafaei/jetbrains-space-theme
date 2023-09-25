@@ -183,7 +183,15 @@
     },
     "Debugger": {
       "EvaluateExpression.background": "floralWhite"
+    },
+    "FileColor": {
+      "Yellow": "#FFF8DA",
+      "Blue": "#E7F2FF",
+      "Gray": "#F2F1F1",
+      "Green": "#EAFFE2",
+      "Orange": "#FFEFE1",
+      "Rose": "#FFEFEF",
+      "Violet": "#F2ECFF"
     }
-
   }
 }
