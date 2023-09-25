@@ -1,0 +1,187 @@
+{
+  "name": "Space Dark",
+  "dark": true,
+  "author": "Ali Akbar Mostafāëi",
+  "editorScheme": "/colorSchemes/dark/space_dark.xml",
+  "colors": {
+    "alphaOverlay": "#ffffff30",
+    "alphaOverlayDarken": "#00000020",
+    "charcoalDark": "#0b0e14",
+    "charcoal": "#0b0e14",
+    "charcoalLight": "#11141c",
+    "comet": "#1e232a",
+    "stargazer": "#414449",
+    "abbey": "#54585e",
+    "clouds": "#7c8086",
+    "dolphin": "#d5d3cb",
+    "blueberry": "#253042",
+    "ocean": "#304d78",
+    "apple": "#6cbf43",
+    "emerald": "#45c968",
+    "pastelGreen": "#72D782",
+    "magicMint": "#95e6cb",
+    "turquoise": "#5ccfe6",
+    "maya": "#3dabfc",
+    "malibu": "#638fbd",
+    "beauBlue": "#6b7784",
+    "coral": "#b35e66",
+    "peach": "#f28779",
+    "mango": "#ffad66",
+    "sands": "#f29e74",
+    "dandelion": "#ffd173",
+    "navajoWhite": "#ffdfb3",
+    "crayola": "#ffcc66",
+    "cinnamon": "#442d00",
+    "lavendar": "#B489CC",
+    "mauve": "#D1BAFF",
+    "flamingo": "#e65050",
+    "pastelRed": "#ff6666"
+  },
+  "icons": {
+  },
+  "ui": {
+    "*": {
+      "background": "charcoal",
+      "foreground": "dolphin",
+      "borderColor": "charcoal",
+      "selectionBackground": "comet",
+      "selectionForeground": "dolphin",
+      "acceleratorForeground": "clouds",
+      "acceleratorSelectionForeground": "clouds",
+      "disabledForeground": "abbey",
+      "disabledText": "abbey",
+      "hoverBackground": "comet",
+      "hoverBorderColor": "comet",
+      "arc": 4.0
+    },
+    "Borders": {
+      "color": "charcoal",
+      "ContrastBorderColor": "charcoal"
+    },
+    "Separator.separatorColor": "charcoalLight",
+    "Menu": {
+      "background": "charcoalLight",
+      "borderColor": "charcoalLight",
+      "separatorColor": "charcoalLight"
+    },
+    "PopupMenu": {
+      "translucentBackground": "charcoalLight",
+      "background": "charcoalLight"
+    },
+    "Popup": {
+      "inactiveBorderColor": "charcoal",
+      "innerBorderColor": "charcoal"
+    },
+    "CompletionPopup": {
+      "matchForeground": "peach",
+      "selectionInactiveBackground": "comet"
+    },
+    "Component": {
+      "errorFocusColor": "pastelRed",
+      "borderColor": "comet",
+      "focusColor": "crayola",
+      "focusedBorderColor": "charcoal",
+      "focusWidth": 1.0
+    },
+    "CheckBox": {
+      "select": "crayola"
+    },
+    "ComboBox": {
+      "ArrowButton.iconColor": "clouds",
+      "ArrowButton.disabledIconColor": "stargazer",
+      "ArrowButton.background": "charcoalLight",
+      "ArrowButton.nonEditableBackground": "charcoalLight",
+      "nonEditableBackground": "charcoalLight"
+    },
+    "Button": {
+      "foreground": "dolphin",
+      "startBackground": "charcoal",
+      "endBackground": "charcoal",
+      "startBorderColor": "crayola",
+      "endBorderColor": "crayola",
+      "focusedBorderColor": "crayola",
+      "disabledText": "abbey",
+      "shadowWidth": 0,
+      "default": {
+        "foreground": "cinnamon",
+        "startBackground": "crayola",
+        "endBackground": "crayola",
+        "startBorderColor": "crayola",
+        "endBorderColor": "crayola",
+        "focusedBorderColor": "crayola",
+        "shadowColor": "charcoal"
+      }
+    },
+    "ActionButton": {
+      "pressedBackground": "ocean",
+      "pressedBorderColor": "ocean"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "charcoal",
+      "underlineColor": "crayola",
+      "inactiveUnderlineColor": "coral",
+      "inactiveColoredFileBackground": "alphaOverlayDarken",
+      "hoverBackground": "charcoalLight"
+    },
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "charcoal",
+        "borderColor": "charcoalLight"
+      },
+      "Button": {
+        "selectedBackground": "crayola",
+        "selectedForeground": "charcoal"
+      }
+    },
+    "RunWidget": {
+      "runIconColor": "emerald",
+      "runningBackground": "emerald",
+      "stopBackground": "flamingo",
+      "hoverBackground": "alphaOverlay"
+    },
+    "Counter": {
+      "background": "crayola",
+      "foreground": "charcoal"
+    },
+    "IconBadge": {
+      "infoBackground": "crayola",
+      "successBackground": "turquoise",
+      "warningBackground": "peach",
+      "errorBackground": "flamingo"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "comet",
+      "usedBackground": "charcoalLight"
+    },
+    "Notification": {
+      "background": "charcoalLight",
+      "borderColor": "charcoalLight",
+      "errorBorderColor": "pastelRed",
+      "Button": {
+        "background": "crayola",
+        "foreground": "cinnamon"
+      }
+    },
+    "Plugins": {
+      "Button": {
+        "installForeground": "dolphin",
+        "installFillForeground": "cinnamon",
+        "installBorderColor": "crayola",
+        "installFillBackground": "crayola",
+        "installFocusedBackground": "crayola",
+        "updateBackground": "crayola",
+        "updateBorderColor": "crayola",
+        "updateForeground": "cinnamon"
+      }
+    },
+    "FileColor": {
+      "Yellow": "#2D2D15",
+      "Blue": "#232936",
+      "Gray": "#2D2C2C",
+      "Green": "#262d27",
+      "Orange": "#302617",
+      "Rose": "#291c22",
+      "Violet": "#272333"
+    }
+  }
+}

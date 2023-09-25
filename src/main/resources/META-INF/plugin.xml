@@ -10,6 +10,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="278be86d-83f8-49be-89d6-08aa13e411f1" path="/themes/space_light.theme.json"/>
         <themeProvider id="b3b349a7-22f1-49f6-86ca-3670fd0e4b82" path="/themes/space_grey.theme.json"/>
+        <themeProvider id="7ff67681-73ab-43d2-91e1-371b51b59e23" path="/themes/space_dark.theme.json"/>
 
         <!--   Language-specific light color schemes     -->
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_coffeescript.xml"/>
@@ -31,23 +32,23 @@
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_yaml.xml"/>
 
         <!--   Language-specific grey/dark color schemes     -->
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_coffeescript.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_css_sass.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_django.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_gherkin.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_gql.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_html.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_java.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_js.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_json.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_objectivec.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_puppet.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_python.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_rest.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_ruby.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_slim.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_xml.xml"/>
-        <additionalTextAttributes scheme="Darcula" file="colorSchemes/grey/space_grey_extras_yaml.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_coffeescript.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_css_sass.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_django.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_gherkin.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_gql.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_html.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_java.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_js.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_json.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_objectivec.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_puppet.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_python.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_rest.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_ruby.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_slim.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_xml.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_yaml.xml"/>
     </extensions>
 
 </idea-plugin>
