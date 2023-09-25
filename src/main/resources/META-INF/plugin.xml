@@ -9,6 +9,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="278be86d-83f8-49be-89d6-08aa13e411f1" path="/themes/space_light.theme.json"/>
+        <themeProvider id="012032a5-4722-422c-901e-44e260cec202" path="/themes/space_light_contrast.theme.json"/>
         <themeProvider id="b3b349a7-22f1-49f6-86ca-3670fd0e4b82" path="/themes/space_grey.theme.json"/>
         <themeProvider id="7ff67681-73ab-43d2-91e1-371b51b59e23" path="/themes/space_dark.theme.json"/>
 
