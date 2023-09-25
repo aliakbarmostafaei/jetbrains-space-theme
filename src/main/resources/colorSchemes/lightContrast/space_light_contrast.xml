@@ -1,7 +1,7 @@
 <scheme name="Space Light Contrast" parent_scheme="Default" version="142">
     <colors>
         <option name="CARET_COLOR" value="fa8d3e"/>
-        <option name="CARET_ROW_COLOR" value="feeec4"/>
+        <option name="CARET_ROW_COLOR" value="f8f0df"/>
         <option name="SELECTION_BACKGROUND" value="fedeb2"/>
         <option name="SELECTION_FOREGROUND" value=""/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
@@ -54,7 +54,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="3c3f54"/>
-                <option name="BACKGROUND" value="F8F4DC"/>
+                <option name="BACKGROUND" value="fcf9ea"/>
             </value>
         </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes=""/>

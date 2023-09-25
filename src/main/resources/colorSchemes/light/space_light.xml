@@ -1,7 +1,7 @@
 <scheme name="Space Light" parent_scheme="Default" version="142">
     <colors>
         <option name="CARET_COLOR" value="FF6A00"/>
-        <option name="CARET_ROW_COLOR" value="f5f8fe"/>
+        <option name="CARET_ROW_COLOR" value="fcf4e3"/>
         <option name="SELECTION_BACKGROUND" value="a6d2ff"/>
         <option name="SELECTION_FOREGROUND" value=""/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
@@ -54,7 +54,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="3c3f54"/>
-                <option name="BACKGROUND" value="fcf9ec"/>
+                <option name="BACKGROUND" value="fdfcf4"/>
             </value>
         </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes=""/>
