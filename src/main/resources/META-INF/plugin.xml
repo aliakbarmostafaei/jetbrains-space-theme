@@ -2,7 +2,13 @@
 <idea-plugin>
     <id>com.github.aliakbarmostafaei.jetbrainsspacetheme</id>
     <name>Space Theme</name>
-    <vendor>Ali Akbar Mostafāëi</vendor>
+    <vendor url="https://github.com/aliakbarmostafaei/jetbrains-space-theme">Ali Akbar Mostafāëi</vendor>
+
+    <description>
+        <![CDATA[
+      A clean, minimal and elegant theme with colors carefully chosen to reduce visual load and eye strain.
+    ]]>
+    </description>
 
     <depends>com.intellij.modules.platform</depends>
     <depends optional="true" config-file="plugin-python.xml">com.intellij.modules.python</depends>
