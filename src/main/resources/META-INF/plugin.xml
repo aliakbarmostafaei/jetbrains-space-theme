@@ -10,6 +10,11 @@
     ]]>
     </description>
 
+    <change-notes><![CDATA[
+    <br/>
+    - Fix Python import statement highlighting on PyCharm Ultimate
+    ]]></change-notes>
+
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.lang</depends>
     <depends optional="true" config-file="plugin-python.xml">com.intellij.modules.python</depends>
