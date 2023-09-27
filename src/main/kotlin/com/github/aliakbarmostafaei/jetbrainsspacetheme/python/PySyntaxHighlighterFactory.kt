@@ -34,14 +34,6 @@ class PySyntaxHighlighterFactory : SyntaxHighlighterFactory() {
     }
 
     /**
-     * Returns a syntax highlighter for Python console.
-     */
-    fun getConsoleSyntaxHighlighter(project: Project?, virtualFile: VirtualFile?): SyntaxHighlighter {
-        val level = getLanguageLevel(project, virtualFile)
-        return myConsoleMap[level]!!
-    }
-
-    /**
      * Returns a syntax highlighter targeting the specified version of Python.
      */
     fun getSyntaxHighlighterForLanguageLevel(level: LanguageLevel): SyntaxHighlighter {
