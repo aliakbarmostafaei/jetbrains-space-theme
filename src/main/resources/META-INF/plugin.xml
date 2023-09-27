@@ -13,6 +13,7 @@
     <change-notes><![CDATA[
     <br/>
     - Fix Python import statement highlighting on PyCharm Ultimate
+    - Changed background color for Light themes
     ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>

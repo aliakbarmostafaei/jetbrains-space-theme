@@ -7,6 +7,8 @@
 ## [1.0.230927] - 2023-09-27
 ### Fixed
 - Python highlighting for import statements
+
+### Changed
 - Update Light theme background color
 
 ## [1.0.0] - 2023-09-25
