@@ -6,7 +6,7 @@
   "colors": {
     "alphaOverlay": "#ffffff30",
     "paperWhite": "#fcfcfc",
-    "floralWhite": "#fcf9ea",
+    "floralWhite": "#f8f4e3",
     "seashell": "#fdf3eb",
     "blackPearl": "#1a1c28",
     "charcoal": "#3c3f54",
@@ -66,7 +66,7 @@
     },
     "windowBorder": "paperWhite",
     "Editor": {
-      "background": "floralWhite",
+      "background": "paperWhite",
       "foreground": "shuttle",
       "Toolbar.borderColor": "floralWhite"
     },
