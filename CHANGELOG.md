@@ -9,6 +9,6 @@
 - Python highlighting for import statements
 - Update Light theme background color
 
-## [Initial release] - 2023-09-25
+## [1.0.0] - 2023-09-25
 ### Added
 - Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
