@@ -1,0 +1,198 @@
+{
+  "name": "Space Light Contrast",
+  "dark": false,
+  "author": "Ali Akbar Mostafāëi",
+  "editorScheme": "/colorSchemes/lightContrast/space_light_contrast.xml",
+  "colors": {
+    "alphaOverlay": "#ffffff30",
+    "paperWhite": "#fcfcfc",
+    "floralWhite": "#fcf9ea",
+    "seashell": "#fdf3eb",
+    "blackPearl": "#1a1c28",
+    "charcoal": "#3c3f54",
+    "shuttle": "#5c6166",
+    "lunar": "#86878b",
+    "aluminium": "#aeafb3",
+    "mist": "#cdcfd0",
+    "pineapple": "#52350B",
+    "rust": "#e55d06",
+    "carrot": "#f3721d",
+    "sunset": "#fa8d3e",
+    "sunshade": "#ffaa33",
+    "caramel": "#ffd192",
+    "sands": "#fedeb2",
+    "emerald": "#5dd57b",
+    "apple": "#6cbf43",
+    "pistachio": "#97d27b",
+    "oceanGreen": "#4cbf99",
+    "oceanBlue": "#3c73ab",
+    "electricBlue": "#22a4e6",
+    "fountainBlue": "#55b4d4",
+    "cobaltBlue": "#7daddb",
+    "skyBlue": "#bae1f1",
+    "aliceBlue": "#e9f2fc",
+    "lavendar": "#a37acc",
+    "lilac": "#c594c5",
+    "flamingo": "#e65050",
+    "blush": "#ff7383",
+    "cottonCandy": "#ff9ca8"
+  },
+  "icons": {
+    "/actions/more.svg": "/icons/light/more_dark.svg"
+  },
+  "ui": {
+    "*": {
+      "background": "paperWhite",
+      "foreground": "shuttle",
+      "borderColor": "paperWhite",
+      "separatorColor": "paperWhite",
+      "selectionBackground": "skyBlue",
+      "selectionForeground": "shuttle",
+      "acceleratorForeground": "lunar",
+      "acceleratorSelectionForeground": "lunar",
+      "disabledForeground": "mist",
+      "disabledText": "mist",
+      "hoverBackground": "aliceBlue",
+      "hoverBorderColor": "aliceBlue",
+      "arc": 4.0
+    },
+    "Borders": {
+      "color": "paperWhite",
+      "ContrastBorderColor": "mist"
+    },
+    "Window": {
+      "border": "paperWhite",
+      "undecorated.border": "paperWhite"
+    },
+    "windowBorder": "paperWhite",
+    "Editor": {
+      "background": "floralWhite",
+      "foreground": "shuttle",
+      "Toolbar.borderColor": "floralWhite"
+    },
+    "PopupMenu": {
+      "translucentBackground": "paperWhite",
+      "background": "paperWhite"
+    },
+    "Popup": {
+      "inactiveBorderColor": "paperWhite",
+      "innerBorderColor": "paperWhite"
+    },
+    "CompletionPopup": {
+      "matchForeground": "rust",
+      "selectionInactiveBackground": "aliceBlue"
+    },
+    "Component": {
+      "errorFocusColor": "flamingo",
+      "borderColor": "mist",
+      "focusColor": "sunshade",
+      "focusedBorderColor": "floralWhite",
+      "focusWidth": 1.0
+    },
+    "CheckBox": {
+      "select": "sunshade"
+    },
+    "ComboBox": {
+      "ArrowButton.iconColor": "sunset",
+      "ArrowButton.disabledIconColor": "sands"
+    },
+    "Button": {
+      "foreground": "pineapple",
+      "startBackground": "floralWhite",
+      "endBackground": "floralWhite",
+      "startBorderColor": "sunshade",
+      "endBorderColor": "sunshade",
+      "focusedBorderColor": "sunshade",
+      "shadowWidth": 0,
+      "default": {
+        "foreground": "pineapple",
+        "startBackground": "sunshade",
+        "endBackground": "sunshade",
+        "startBorderColor": "sunshade",
+        "endBorderColor": "sunshade",
+        "focusedBorderColor": "sunshade",
+        "shadowColor": "floralWhite"
+      }
+    },
+    "ActionButton": {
+      "pressedBackground": "sands",
+      "pressedBorderColor": "sands"
+    },
+    "EditorTabs": {
+      "background": "paperWhite",
+      "underlinedTabBackground": "floralWhite",
+      "underlineColor": "floralWhite",
+      "hoverBackground": "seashell",
+      "inactiveUnderlineColor": "floralWhite",
+      "inactiveColoredFileBackground": "paperWhite"
+    },
+    "DefaultTabs": {
+      "background": "paperWhite",
+      "underlinedTabBackground": "floralWhite",
+      "underlineColor": "floralWhite",
+      "hoverBackground": "seashell"
+    },
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "paperWhite"
+      },
+      "Button": {
+        "selectedBackground": "caramel",
+        "selectedForeground": "shuttle"
+      }
+    },
+    "RunWidget": {
+      "runIconColor": "oceanGreen",
+      "runningBackground": "oceanGreen",
+      "stopBackground": "blush",
+      "hoverBackground": "alphaOverlay"
+    },
+    "Notification": {
+      "background": "seashell",
+      "borderColor": "sunshade",
+      "errorBorderColor": "flamingo",
+      "Button": {
+        "background": "sunshade",
+        "foreground": "pineapple"
+      }
+    },
+    "Counter": {
+      "background": "sunshade",
+      "foreground": "floralWhite"
+    },
+    "IconBadge": {
+      "infoBackground": "sunshade",
+      "successBackground": "apple",
+      "warningBackground": "sunset",
+      "errorBackground": "flamingo"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "sands",
+      "usedBackground": "caramel"
+    },
+    "Plugins": {
+      "Button": {
+        "installForeground": "pineapple",
+        "installFillForeground": "pineapple",
+        "installBorderColor": "sunshade",
+        "installFillBackground": "sunshade",
+        "installFocusedBackground": "sands",
+        "updateBackground": "sands",
+        "updateBorderColor": "sands",
+        "updateForeground": "pineapple"
+      }
+    },
+    "Debugger": {
+      "EvaluateExpression.background": "floralWhite"
+    },
+    "FileColor": {
+      "Yellow": "#FFF8DA",
+      "Blue": "#E7F2FF",
+      "Gray": "#F2F1F1",
+      "Green": "#EAFFE2",
+      "Orange": "#FFEFE1",
+      "Rose": "#FFEFEF",
+      "Violet": "#F2ECFF"
+    }
+  }
+}

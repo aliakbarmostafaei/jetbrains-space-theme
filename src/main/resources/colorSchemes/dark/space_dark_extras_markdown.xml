@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<list>
+    <option name="MARKDOWN_AUTO_LINK">
+        <value>
+            <option name="FOREGROUND" value="3dabfc"/>
+            <option name="EFFECT_COLOR" value="3dabfc"/>
+            <option name="EFFECT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="MARKDOWN_IMAGE">
+        <value/>
+    </option>
+    <option name="MARKDOWN_LINK_TEXT">
+        <value>
+            <option name="FOREGROUND" value="3dabfc"/>
+            <option name="EFFECT_COLOR" value="3dabfc"/>
+            <option name="EFFECT_TYPE" value="1"/>
+        </value>
+    </option>
+</list>

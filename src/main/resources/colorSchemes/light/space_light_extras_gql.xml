@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<list>
+    <option name="GQL_ID">
+        <value>
+            <option name="FOREGROUND" value="A37ACC"/>
+        </value>
+    </option>
+    <option name="GQL_INT_LITERAL">
+        <value>
+            <option name="FOREGROUND" value="A37ACC"/>
+        </value>
+    </option>
+    <option name="GQL_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="GQL_STRING_LITERAL">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+</list>

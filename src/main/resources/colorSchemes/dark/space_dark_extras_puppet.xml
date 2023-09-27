@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<list>
+    <option name="PUPPET_BAD_CHARACTER">
+        <value>
+            <option name="FOREGROUND" value="FF3333"/>
+        </value>
+    </option>
+    <option name="PUPPET_BLOCK_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_BRACES" name="PUPPET_BRACES"/>
+    <option baseAttributes="DEFAULT_BRACKETS" name="PUPPET_BRACKETS"/>
+    <option name="PUPPET_CLASS">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_COMMA" name="PUPPET_COMMA"/>
+    <option baseAttributes="DEFAULT_DOT" name="PUPPET_DOT"/>
+    <option name="PUPPET_ESCAPE_SEQUENCE">
+        <value>
+            <option name="FOREGROUND" value="95E6CB"/>
+        </value>
+    </option>
+    <option name="PUPPET_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="PUPPET_NUMBER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="PUPPET_OPERATION_SIGN">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_PARENTHS" name="PUPPET_PARENTH"/>
+    <option name="PUPPET_REGEX">
+        <value>
+            <option name="FOREGROUND" value="95E6CB"/>
+        </value>
+    </option>
+    <option baseAttributes="TEXT" name="PUPPET_RESOURCE_REFERENCE"/>
+    <option baseAttributes="DEFAULT_SEMICOLON" name="PUPPET_SEMICOLON"/>
+    <option name="PUPPET_SQ_STRING">
+        <value>
+            <option name="FOREGROUND" value="cccac2"/>
+        </value>
+    </option>
+    <option name="PUPPET_STRING">
+        <value>
+            <option name="FOREGROUND" value="cccac2"/>
+        </value>
+    </option>
+    <option name="PUPPET_VARIABLE">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="PUPPET_VARIABLE_INTERPOLATION">
+        <value>
+            <option name="FOREGROUND" value="cccac2"/>
+        </value>
+    </option>
+</list>

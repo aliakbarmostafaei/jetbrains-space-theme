@@ -1,18 +1,67 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.aliakbarmostafaei.jetbrainsspacetheme</id>
-    <name>jetbrains-space-theme Template</name>
-    <vendor>aliakbarmostafaei</vendor>
+    <name>Space Theme</name>
+    <vendor url="https://github.com/aliakbarmostafaei/jetbrains-space-theme">Ali Akbar Mostafāëi</vendor>
+
+    <description>
+        <![CDATA[
+      A clean, minimal and elegant theme with colors carefully chosen to reduce visual load and eye strain.
+    ]]>
+    </description>
 
     <depends>com.intellij.modules.platform</depends>
-
-    <resource-bundle>messages.MyBundle</resource-bundle>
+    <depends optional="true" config-file="plugin-python.xml">com.intellij.modules.python</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.aliakbarmostafaei.jetbrainsspacetheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="278be86d-83f8-49be-89d6-08aa13e411f1" path="/themes/space_light.theme.json"/>
+        <themeProvider id="012032a5-4722-422c-901e-44e260cec202" path="/themes/space_light_contrast.theme.json"/>
+        <themeProvider id="b3b349a7-22f1-49f6-86ca-3670fd0e4b82" path="/themes/space_grey.theme.json"/>
+        <themeProvider id="15ab5595-f9a8-4472-96ab-dc095c65893a" path="/themes/space_grey_contrast.theme.json"/>
+        <themeProvider id="7ff67681-73ab-43d2-91e1-371b51b59e23" path="/themes/space_dark.theme.json"/>
+
+        <!--   Language-specific light color schemes     -->
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_coffeescript.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_css_sass.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_django.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_gherkin.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_go.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_gql.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_html.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_java.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_js.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_json.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_objectivec.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_puppet.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_python.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_rest.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_ruby.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_slim.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_xml.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_yaml.xml"/>
+
+        <!--   Language-specific grey/dark color schemes     -->
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_coffeescript.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_css_sass.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_django.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_gherkin.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_gql.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_html.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_java.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_js.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_json.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_kotlin.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_markdown.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_objectivec.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_properties.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_puppet.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_python.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_rest.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_rust.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_ruby.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_slim.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_xml.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_yaml.xml"/>
     </extensions>
 
-    <applicationListeners>
-        <listener class="com.github.aliakbarmostafaei.jetbrainsspacetheme.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>

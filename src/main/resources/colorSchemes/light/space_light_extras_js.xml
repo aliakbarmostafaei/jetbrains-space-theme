@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<list>
+    <option name="JS.GLOBAL_VARIABLE">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+        <value>
+            <option name="FOREGROUND" value="F29718"/>
+        </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="JS.PARAMETER">
+        <value>
+            <option name="FOREGROUND" value="A37ACC"/>
+        </value>
+    </option>
+    <option name="JS.REGEXP">
+        <value>
+            <option name="FOREGROUND" value="4DBF99"/>
+        </value>
+    </option>
+
+    <!--  Spy-JS  -->
+    <option baseAttributes="TEXT" name="SPY-JS.VALUE_HINT"/>
+    <option name="SPY-JS.EXCEPTION">
+        <value>
+            <option name="BACKGROUND" value="fecccc"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="5C6773"/>
+        </value>
+    </option>
+    <option name="SPY-JS.FUNCTION_SCOPE">
+        <value>
+            <option name="BACKGROUND" value="fefef0"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="5C6773"/>
+        </value>
+    </option>
+    <option name="SPY-JS.PATH_LEVEL_ONE">
+        <value>
+            <option name="BACKGROUND" value="e2fee2"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="5C6773"/>
+        </value>
+    </option>
+    <option name="SPY-JS.PATH_LEVEL_TWO">
+        <value>
+            <option name="EFFECT_TYPE" value="1"/>
+            <option name="EFFECT_COLOR" value="5C6773"/>
+        </value>
+    </option>
+    <option name="SPY-JS.PROGRAM_SCOPE">
+        <value>
+            <option name="BACKGROUND" value="fefefe"/>
+            <option name="EFFECT_TYPE" value="2"/>
+            <option name="EFFECT_COLOR" value="5C6773"/>
+        </value>
+    </option>
+
+    <!--  Jade  -->
+    <option name="JADE_FILE_PATH">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_LABEL" name="JADE_FILTER_NAME"/>
+    <option baseAttributes="DEFAULT_IDENTIFIER" name="JADE_JS_BLOCK"/>
+    <option name="JADE_STATEMENTS">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+</list>

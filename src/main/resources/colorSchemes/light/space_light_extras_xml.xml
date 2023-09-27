@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<list>
+    <option name="XML_ATTRIBUTE_NAME">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+        <value>
+            <option name="FOREGROUND" value="A37ACC"/>
+        </value>
+    </option>
+    <option name="XML_PROLOGUE">
+        <value>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="XML_TAG">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="XML_TAG_DATA">
+        <value>
+            <option name="FONT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="XML_TAG_NAME">
+        <value>
+            <option name="FOREGROUND" value="E7C547"/>
+        </value>
+    </option>
+</list>

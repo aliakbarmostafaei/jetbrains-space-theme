@@ -1,0 +1,13 @@
+<idea-plugin>
+
+    <resource-bundle>messages.PyBundle</resource-bundle>
+
+    <extensions defaultExtensionNs="Pythonid">
+        <pyAnnotator implementation="com.github.aliakbarmostafaei.jetbrainsspacetheme.python.PySyntaxColorAnnotator"/>
+    </extensions>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <colorSettingsPage implementation="com.github.aliakbarmostafaei.jetbrainsspacetheme.python.PyColorSettingsPage"/>
+    </extensions>
+
+</idea-plugin>

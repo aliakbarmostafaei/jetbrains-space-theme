@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<list>
+    <option name="SLIM_BAD_CHARACTER">
+        <value>
+            <option name="FOREGROUND" value="FF3333"/>
+        </value>
+    </option>
+    <option baseAttributes="SLIM_STATIC_CONTENT" name="SLIM_CALL"/>
+    <option name="SLIM_CLASS">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="SLIM_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="ABB0B6"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="SLIM_DOCTYPE_KWD">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="SLIM_FILTER">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option baseAttributes="SLIM_STATIC_CONTENT" name="SLIM_FILTER_CONTENT"/>
+    <option name="SLIM_ID">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="SLIM_INTERPOLATION">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option baseAttributes="DEFAULT_PARENTHS" name="SLIM_PARENTHS"/>
+    <option baseAttributes="HAML_TEXT" name="SLIM_RUBY_CODE"/>
+    <option baseAttributes="TEXT" name="SLIM_STATIC_CONTENT"/>
+    <option name="SLIM_STRING_INTERPOLATED">
+        <value>
+            <option name="FOREGROUND" value="86B300"/>
+        </value>
+    </option>
+    <option name="SLIM_TAG">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+    <option name="SLIM_TAG_ATTR_KEY">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="SLIM_TAG_START">
+        <value>
+            <option name="FOREGROUND" value="41A6D9"/>
+        </value>
+    </option>
+</list>

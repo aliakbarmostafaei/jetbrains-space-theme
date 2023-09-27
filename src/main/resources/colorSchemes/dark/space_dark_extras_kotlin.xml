@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<list>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES"/>
+    <option name="KOTLIN_LABEL">
+        <value>
+            <option name="FOREGROUND" value="32b8af"/>
+        </value>
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+        <value>
+            <option name="EFFECT_COLOR" value="84868c"/>
+            <option name="EFFECT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+        <value>
+            <option name="FOREGROUND" value="56c1d6"/>
+        </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+        <value>
+            <option name="BACKGROUND" value="1a3b2d"/>
+        </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+        <value>
+            <option name="BACKGROUND" value="1a3b2d"/>
+        </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+        <value>
+            <option name="BACKGROUND" value="1a3b2d"/>
+        </value>
+    </option>
+</list>

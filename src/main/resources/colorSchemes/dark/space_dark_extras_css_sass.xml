@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<list>
+    <option name="CSS.COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="CSS.FUNCTION">
+        <value>
+            <option name="FOREGROUND" value="FFD580"/>
+        </value>
+    </option>
+    <option name="CSS.IDENT">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="CSS.NUMBER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+        <value>
+            <option name="FOREGROUND" value="68e868"/>
+            <option name="FONT_TYPE" value="1"/>
+        </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="CSS.URL">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="SASS_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="SASS_DEFAULT">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="SASS_EXTEND">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="SASS_FUNCTION">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="SASS_IDENTIFIER">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="SASS_IMPORTANT">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="SASS_KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="SASS_MIXIN">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="SASS_NUMBER">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="SASS_PROPERTY_NAME">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="SASS_PROPERTY_VALUE">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="SASS_STRING">
+        <value>
+            <option name="FOREGROUND" value="cccac2"/>
+        </value>
+    </option>
+    <option name="SASS_TAG_NAME">
+        <value>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="SASS_URL">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+    <option name="SASS_VARIABLE">
+        <value>
+            <option name="FOREGROUND" value="D4BFFF"/>
+        </value>
+    </option>
+</list>
