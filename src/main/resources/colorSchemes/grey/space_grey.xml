@@ -271,7 +271,7 @@
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="72D782"/>
+                <option name="FOREGROUND" value="b2f589"/>
             </value>
         </option>
         <option name="DEFAULT_TAG">
@@ -282,7 +282,7 @@
         <option baseAttributes="TEXT" name="DEFAULT_TEMPLATE_LANGUAGE_COLOR"/>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="95E6CB"/>
+                <option name="FOREGROUND" value="b2f589"/>
             </value>
         </option>
         <option name="BAD_CHARACTER">
@@ -436,7 +436,7 @@
         </option>
         <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="95E6CB"/>
+                <option name="FOREGROUND" value="b2f589"/>
                 <option name="FONT_TYPE" value="1"/>
             </value>
         </option>

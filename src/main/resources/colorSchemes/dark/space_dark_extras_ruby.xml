@@ -32,7 +32,7 @@
     <option baseAttributes="DEFAULT_DOT" name="RUBY_DOT"/>
     <option name="RUBY_ESCAPE_SEQUENCE">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
@@ -123,7 +123,7 @@
     </option>
     <option name="RUBY_REGEXP">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_SEMICOLON" name="RUBY_SEMICOLON"/>

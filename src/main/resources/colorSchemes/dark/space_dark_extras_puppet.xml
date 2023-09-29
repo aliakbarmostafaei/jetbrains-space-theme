@@ -22,7 +22,7 @@
     <option baseAttributes="DEFAULT_DOT" name="PUPPET_DOT"/>
     <option name="PUPPET_ESCAPE_SEQUENCE">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option name="PUPPET_KEYWORD">
@@ -43,7 +43,7 @@
     <option baseAttributes="DEFAULT_PARENTHS" name="PUPPET_PARENTH"/>
     <option name="PUPPET_REGEX">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="PUPPET_RESOURCE_REFERENCE"/>

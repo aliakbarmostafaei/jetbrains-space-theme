@@ -32,7 +32,7 @@
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.DOT"/>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.EXISTENTIAL">
@@ -77,12 +77,12 @@
     </option>
     <option name="COFFEESCRIPT.HEREGEX_CONTENT">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="COFFEESCRIPT.IDENTIFIER"/>
@@ -128,17 +128,17 @@
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.RANGE"/>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_CONTENT">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_FLAG">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_ID">
         <value>
-            <option name="FOREGROUND" value="95E6CB"/>
+            <option name="FOREGROUND" value="b2f589"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_SEMICOLON" name="COFFEESCRIPT.SEMICOLON"/>
