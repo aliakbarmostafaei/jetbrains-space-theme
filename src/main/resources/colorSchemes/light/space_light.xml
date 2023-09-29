@@ -296,7 +296,7 @@
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="41A6D9"/>
+                <option name="FOREGROUND" value="5c6166"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -336,7 +336,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="41A6D9"/>
+                <option name="FOREGROUND" value="5c6166"/>
             </value>
         </option>
         <option name="DEFAULT_METADATA">
