@@ -12,8 +12,17 @@
 
     <change-notes><![CDATA[
     <br/>
-    - Fix Python import statement highlighting on PyCharm Ultimate
-    - Changed background color for Light themes
+    <h5>Added</h5>
+    - Added comment highlighting for special tags [TODO, FIXME, HACK, BUG]
+
+    <h5>Changed</h5>
+    - Changed global/local variable's color to the default foreground for each theme
+    - Changed string's color to a brighter green
+    - Changed TODO statement color to a more vibrant one
+    - Changed Hyperlink colors for 'Light' themes
+    - Changed background color of 'Light' themes to a more subtle one
+    - Changed background color of Notification popups (Light themes)
+    - Changed background color of tab hover (Light themes)
     ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
