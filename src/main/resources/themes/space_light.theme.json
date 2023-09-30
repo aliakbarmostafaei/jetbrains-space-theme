@@ -6,7 +6,7 @@
   "colors": {
     "alphaOverlay": "#ffffff30",
     "paperWhite": "#fcfcfc",
-    "floralWhite": "#fcf5ee",
+    "floralWhite": "#fdf8f5",
     "seashell": "#fdf3eb",
     "blackPearl": "#1a1c28",
     "charcoal": "#3c3f54",
@@ -21,9 +21,10 @@
     "sunshade": "#ffaa33",
     "caramel": "#ffd192",
     "sands": "#fedeb2",
-    "emerald": "#5dd57b",
+    "avocado": "#4b9301",
     "apple": "#6cbf43",
     "pistachio": "#97d27b",
+    "emerald": "#5dd57b",
     "oceanGreen": "#4cbf99",
     "oceanBlue": "#3c73ab",
     "electricBlue": "#22a4e6",
@@ -42,10 +43,10 @@
   },
   "ui": {
     "*": {
-      "background": "floralWhite",
+      "background": "paperWhite",
       "foreground": "shuttle",
-      "borderColor": "floralWhite",
-      "separatorColor": "floralWhite",
+      "borderColor": "paperWhite",
+      "separatorColor": "paperWhite",
       "selectionBackground": "skyBlue",
       "selectionForeground": "shuttle",
       "acceleratorForeground": "lunar",
@@ -57,16 +58,16 @@
       "arc": 4.0
     },
     "Borders": {
-      "color": "floralWhite",
+      "color": "paperWhite",
       "ContrastBorderColor": "mist"
     },
     "Window": {
-      "border": "floralWhite",
-      "undecorated.border": "floralWhite"
+      "border": "paperWhite",
+      "undecorated.border": "paperWhite"
     },
-    "windowBorder": "floralWhite",
+    "windowBorder": "paperWhite",
     "Editor": {
-      "background": "floralWhite",
+      "background": "paperWhite",
       "foreground": "shuttle"
     },
     "PopupMenu": {
@@ -76,6 +77,11 @@
     "Popup": {
       "inactiveBorderColor": "floralWhite",
       "innerBorderColor": "floralWhite"
+    },
+    "Menu": {
+      "background": "floralWhite",
+      "borderColor": "floralWhite",
+      "separatorColor": "floralWhite"
     },
     "CompletionPopup": {
       "matchForeground": "rust",
@@ -97,8 +103,8 @@
     },
     "Button": {
       "foreground": "pineapple",
-      "startBackground": "floralWhite",
-      "endBackground": "floralWhite",
+      "startBackground": "paperWhite",
+      "endBackground": "paperWhite",
       "startBorderColor": "sunshade",
       "endBorderColor": "sunshade",
       "focusedBorderColor": "sunshade",
@@ -110,7 +116,7 @@
         "startBorderColor": "sunshade",
         "endBorderColor": "sunshade",
         "focusedBorderColor": "sunshade",
-        "shadowColor": "floralWhite"
+        "shadowColor": "paperWhite"
       }
     },
     "ActionButton": {
@@ -118,21 +124,21 @@
       "pressedBorderColor": "sands"
     },
     "EditorTabs": {
-      "background": "floralWhite",
-      "underlinedTabBackground": "floralWhite",
+      "background": "paperWhite",
+      "underlinedTabBackground": "paperWhite",
       "underlineColor": "sunshade",
       "hoverBackground": "seashell",
       "inactiveColoredFileBackground": "alphaOverlay"
     },
     "DefaultTabs": {
-      "background": "floralWhite",
-      "underlinedTabBackground": "floralWhite",
+      "background": "paperWhite",
+      "underlinedTabBackground": "paperWhite",
       "underlineColor": "sunshade",
       "hoverBackground": "seashell"
     },
     "ToolWindow": {
       "Header": {
-        "inactiveBackground": "floralWhite",
+        "inactiveBackground": "paperWhite",
         "borderColor": "mist"
       },
       "Button": {
@@ -157,7 +163,7 @@
     },
     "Counter": {
       "background": "sunshade",
-      "foreground": "floralWhite"
+      "foreground": "paperWhite"
     },
     "IconBadge": {
       "infoBackground": "sunshade",
