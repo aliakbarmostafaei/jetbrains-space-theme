@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<list>
+    <!--  Nullify the default TODO style to present as a comment  -->
+    <option baseAttributes="DEFAULT_DOC_COMMENT" name="TODO_DEFAULT_ATTRIBUTES"/>
+
+    <option baseAttributes="DEFAULT_DOC_COMMENT" name="TODO_DESCRIPTION_ATTRIBUTES"/>
+    <option baseAttributes="DEFAULT_DOC_COMMENT" name="FIXME_DESCRIPTION_ATTRIBUTES"/>
+    <option baseAttributes="DEFAULT_DOC_COMMENT" name="BUG_DESCRIPTION_ATTRIBUTES"/>
+    <option baseAttributes="DEFAULT_DOC_COMMENT" name="TODO_DESCRIPTION_ATTRIBUTES"/>
+
+    <option name="TODO_TAG_ATTRIBUTES">
+        <value>
+            <option name="BACKGROUND" value="75f717"/>
+            <option name="FOREGROUND" value="1f2430"/>
+            <option name="FONT_TYPE" value="3"/>
+            <option name="ERROR_STRIPE_COLOR" value="ff6666"/>
+        </value>
+    </option>
+
+    <option name="FIXME_TAG_ATTRIBUTES">
+        <value>
+            <option name="BACKGROUND" value="f28779"/>
+            <option name="FOREGROUND" value="1f2430"/>
+            <option name="FONT_TYPE" value="3"/>
+            <option name="ERROR_STRIPE_COLOR" value="ff6666"/>
+        </value>
+    </option>
+
+    <option name="BUG_TAG_ATTRIBUTES">
+        <value>
+            <option name="BACKGROUND" value="e65050"/>
+            <option name="FOREGROUND" value="1a1e28"/>
+            <option name="FONT_TYPE" value="3"/>
+            <option name="ERROR_STRIPE_COLOR" value="ff6666"/>
+        </value>
+    </option>
+
+    <option name="HACK_TAG_ATTRIBUTES">
+        <value>
+            <option name="BACKGROUND" value="ffcc66"/>
+            <option name="FOREGROUND" value="1f2430"/>
+            <option name="FONT_TYPE" value="3"/>
+            <option name="ERROR_STRIPE_COLOR" value="ff6666"/>
+        </value>
+    </option>
+
+</list>

@@ -27,6 +27,11 @@
         <themeProvider id="15ab5595-f9a8-4472-96ab-dc095c65893a" path="/themes/space_grey_contrast.theme.json"/>
         <themeProvider id="7ff67681-73ab-43d2-91e1-371b51b59e23" path="/themes/space_dark.theme.json"/>
 
+        <annotator language=""
+                   implementationClass="com.github.aliakbarmostafaei.jetbrainsspacetheme.general.TodoAnnotator"/>
+        <colorSettingsPage
+                implementation="com.github.aliakbarmostafaei.jetbrainsspacetheme.general.TodoColorsSettingsPage"/>
+
         <!--   Language-specific light color schemes     -->
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_coffeescript.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_css_sass.xml"/>
@@ -44,6 +49,7 @@
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_rest.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_ruby.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_slim.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_todo_tags.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_xml.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_yaml.xml"/>
 
@@ -67,6 +73,7 @@
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_rust.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_ruby.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_slim.xml"/>
+        <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_todo_tags.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_xml.xml"/>
         <additionalTextAttributes scheme="Darcula" file="colorSchemes/dark/space_dark_extras_yaml.xml"/>
     </extensions>

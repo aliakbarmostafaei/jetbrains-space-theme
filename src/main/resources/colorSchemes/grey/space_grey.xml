@@ -747,13 +747,6 @@
                 <option name="ERROR_STRIPE_COLOR" value="00ff00"/>
             </value>
         </option>
-        <option name="TODO_DEFAULT_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="6cbf43"/>
-                <option name="FONT_TYPE" value="3"/>
-                <option name="ERROR_STRIPE_COLOR" value="ff6666"/>
-            </value>
-        </option>
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="5ccfe6"/>
