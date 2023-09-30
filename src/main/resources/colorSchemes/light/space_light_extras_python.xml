@@ -2,6 +2,10 @@
 <list>
     <option baseAttributes="DEFAULT_BRACES" name="PY.BRACES"/>
     <option baseAttributes="DEFAULT_BRACKETS" name="PY.BRACKETS"/>
+    <option baseAttributes="DEFAULT_COMMA" name="PY.COMMA"/>
+    <option baseAttributes="DEFAULT_DOT" name="PY.DOT"/>
+    <option baseAttributes="DEFAULT_PARENTHS" name="PY.PARENTHS"/>
+
     <option name="PY.IMPORT.MODULE">
       <value>
         <option name="FOREGROUND" value="22a4e6"/>
@@ -17,37 +21,51 @@
             <option name="FOREGROUND" value="F29718"/>
         </value>
     </option>
+    <option name="PY.KEYWORD">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+    <option name="PY.OPERATION_SIGN">
+        <value>
+            <option name="FOREGROUND" value="F2590C"/>
+        </value>
+    </option>
+
+    <option name="PY.PREDEFINED_DEFINITION">
+        <value>
+            <option name="FOREGROUND" value="F29718"/>
+        </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+        <value>
+            <option name="FOREGROUND" value="F29718"/>
+        </value>
+    </option>
+    <option name="PY.DECORATOR">
+        <value>
+            <option name="FOREGROUND" value="F29718"/>
+        </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+        <value>
+            <option name="FOREGROUND" value="F29718"/>
+        </value>
+    </option>
     <option name="PY.CLASS_DEFINITION">
         <value>
             <option name="FOREGROUND" value="41A6D9"/>
         </value>
     </option>
-    <option baseAttributes="DEFAULT_COMMA" name="PY.COMMA"/>
-    <option name="PY.DECORATOR">
+    <option name="PY.KEYWORD_ARGUMENT">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="c594c5"/>
         </value>
     </option>
     <option name="PY.DOC_COMMENT">
         <value>
             <option name="FOREGROUND" value="ABB0B6"/>
             <option name="FONT_TYPE" value="2"/>
-        </value>
-    </option>
-    <option baseAttributes="DEFAULT_DOT" name="PY.DOT"/>
-    <option name="PY.FUNC_DEFINITION">
-        <value>
-            <option name="FOREGROUND" value="F29718"/>
-        </value>
-    </option>
-    <option name="PY.INVALID_STRING_ESCAPE">
-        <value>
-            <option name="FOREGROUND" value="FF3333"/>
-        </value>
-    </option>
-    <option name="PY.KEYWORD">
-        <value>
-            <option name="FOREGROUND" value="F2590C"/>
         </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -61,26 +79,29 @@
             <option name="FOREGROUND" value="A37ACC"/>
         </value>
     </option>
-    <option name="PY.OPERATION_SIGN">
-        <value>
-            <option name="FOREGROUND" value="F2590C"/>
-        </value>
-    </option>
-    <option baseAttributes="DEFAULT_PARENTHS" name="PY.PARENTHS"/>
-    <option baseAttributes="TEXT" name="PY.PREDEFINED_DEFINITION"/>
-    <option name="PY.PREDEFINED_USAGE">
-        <value>
-            <option name="FOREGROUND" value="F29718"/>
-        </value>
-    </option>
     <option name="PY.STRING">
         <value>
             <option name="FOREGROUND" value="86B300"/>
         </value>
     </option>
+    <option name="PY.STRING.B">
+        <value>
+            <option name="FOREGROUND" value="6cbf43"/>
+        </value>
+    </option>
     <option name="PY.VALID_STRING_ESCAPE">
         <value>
-            <option name="FOREGROUND" value="4DBF99"/>
+            <option name="FOREGROUND" value="4cbf99"/>
+        </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+        <value>
+            <option name="FOREGROUND" value="e65050"/>
+        </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+        <value>
+            <option name="FOREGROUND" value="a37acc"/>
         </value>
     </option>
 

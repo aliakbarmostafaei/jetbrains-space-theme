@@ -2,9 +2,9 @@
 <list>
     <option baseAttributes="DEFAULT_BRACES" name="PY.BRACES"/>
     <option baseAttributes="DEFAULT_BRACKETS" name="PY.BRACKETS"/>
-    <option baseAttributes="DEFAULT_PARENTHS" name="PY.PARENTHS"/>
-    <option baseAttributes="DEFAULT_DOT" name="PY.DOT"/>
     <option baseAttributes="DEFAULT_COMMA" name="PY.COMMA"/>
+    <option baseAttributes="DEFAULT_DOT" name="PY.DOT"/>
+    <option baseAttributes="DEFAULT_PARENTHS" name="PY.PARENTHS"/>
 
     <option name="PY.IMPORT.MODULE">
       <value>
@@ -21,9 +21,19 @@
             <option name="FOREGROUND" value="FFD580"/>
         </value>
     </option>
-    <option name="PY.CLASS_DEFINITION">
+    <option name="PY.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="PY.OPERATION_SIGN">
+        <value>
+            <option name="FOREGROUND" value="FFAE57"/>
+        </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+        <value>
+            <option name="FOREGROUND" value="FFD580"/>
         </value>
     </option>
     <option name="PY.DECORATOR">
@@ -31,20 +41,20 @@
             <option name="FOREGROUND" value="FFD580"/>
         </value>
     </option>
-    <option name="PY.DOC_COMMENT">
-        <value>
-            <option name="FOREGROUND" value="5C6773"/>
-            <option name="FONT_TYPE" value="2"/>
-        </value>
-    </option>
     <option name="PY.FUNC_DEFINITION">
         <value>
             <option name="FOREGROUND" value="FFD580"/>
         </value>
     </option>
-    <option name="PY.KEYWORD">
+    <option name="PY.CLASS_DEFINITION">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="5CCFE6"/>
+        </value>
+    </option>
+    <option name="PY.DOC_COMMENT">
+        <value>
+            <option name="FOREGROUND" value="5C6773"/>
+            <option name="FONT_TYPE" value="2"/>
         </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -58,16 +68,6 @@
             <option name="FOREGROUND" value="D4BFFF"/>
         </value>
     </option>
-    <option name="PY.OPERATION_SIGN">
-        <value>
-            <option name="FOREGROUND" value="FFAE57"/>
-        </value>
-    </option>
-    <option name="PY.PREDEFINED_USAGE">
-        <value>
-            <option name="FOREGROUND" value="FFD580"/>
-        </value>
-    </option>
     <option name="PY.STRING">
         <value>
             <option name="FOREGROUND" value="72D782"/>
@@ -78,14 +78,14 @@
             <option name="FOREGROUND" value="a5c261"/>
         </value>
     </option>
-    <option name="PY.INVALID_STRING_ESCAPE">
-        <value>
-            <option name="FOREGROUND" value="FF3333"/>
-        </value>
-    </option>
     <option name="PY.VALID_STRING_ESCAPE">
         <value>
             <option name="FOREGROUND" value="b2f589"/>
+        </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+        <value>
+            <option name="FOREGROUND" value="FF3333"/>
         </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
