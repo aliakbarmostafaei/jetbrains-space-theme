@@ -16,12 +16,12 @@
     <option baseAttributes="OC.DOT" name="OC.COMMA"/>
     <option name="OC.CPP_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="OC.DIRECTIVE">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="OC.DOT"/>
@@ -32,12 +32,12 @@
     </option>
     <option name="OC.FUNCTION">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="OC.FUNCTION">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="OC.GLOBAL_VARIABLE">
@@ -47,7 +47,7 @@
     </option>
     <option name="OC.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="OC.LINE_COMMENT">

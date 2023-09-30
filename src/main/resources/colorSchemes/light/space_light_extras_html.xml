@@ -47,7 +47,7 @@
     <option baseAttributes="HAML_TEXT" name="HAML_XHTML"/>
     <option name="HTML_ATTRIBUTE_NAME">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">

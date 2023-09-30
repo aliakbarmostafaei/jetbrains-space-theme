@@ -8,7 +8,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -75,7 +75,7 @@
     <option baseAttributes="DEFAULT_IDENTIFIER" name="JADE_JS_BLOCK"/>
     <option name="JADE_STATEMENTS">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
 </list>

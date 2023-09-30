@@ -20,12 +20,12 @@
     <option baseAttributes="DEFAULT_BRACKETS" name="COFFEESCRIPT.BRACKET"/>
     <option name="COFFEESCRIPT.CLASS_NAME">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.COLON">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_COMMA" name="COFFEESCRIPT.COMMA"/>
@@ -37,7 +37,7 @@
     </option>
     <option name="COFFEESCRIPT.EXISTENTIAL">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
@@ -47,17 +47,17 @@
     </option>
     <option name="COFFEESCRIPT.FUNCTION">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_BINDING">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
@@ -94,7 +94,7 @@
     </option>
     <option name="COFFEESCRIPT.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
@@ -116,13 +116,13 @@
     </option>
     <option name="COFFEESCRIPT.OPERATIONS">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_PARENTHS" name="COFFEESCRIPT.PARENTHESIS"/>
     <option name="COFFEESCRIPT.PROTOTYPE">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.RANGE"/>

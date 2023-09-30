@@ -27,7 +27,7 @@
     </option>
     <option name="PUPPET_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="PUPPET_NUMBER">
@@ -37,7 +37,7 @@
     </option>
     <option name="PUPPET_OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_PARENTHS" name="PUPPET_PARENTH"/>

@@ -8,12 +8,12 @@
     </option>
     <option name="CSS.FUNCTION">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="CSS.IDENT">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="CSS.NUMBER">
@@ -50,12 +50,12 @@
     </option>
     <option name="SASS_DEFAULT">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="SASS_EXTEND">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="SASS_FUNCTION">
@@ -65,22 +65,22 @@
     </option>
     <option name="SASS_IDENTIFIER">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="SASS_IMPORTANT">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="SASS_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="SASS_MIXIN">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="SASS_NUMBER">

@@ -236,7 +236,7 @@
         </option>
         <option name="DEFAULT_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="F2590C"/>
+                <option name="FOREGROUND" value="e7540b"/>
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -286,12 +286,12 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="F29718"/>
+                <option name="FOREGROUND" value="fa8d3e"/>
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_DECLARATION">
             <value>
-                <option name="FOREGROUND" value="F29718"/>
+                <option name="FOREGROUND" value="fa8d3e"/>
             </value>
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -309,7 +309,7 @@
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
             <value>
-                <option name="FOREGROUND" value="F29718"/>
+                <option name="FOREGROUND" value="fa8d3e"/>
             </value>
         </option>
         <option name="DEFAULT_INTERFACE_NAME">
@@ -324,7 +324,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="F2590C"/>
+                <option name="FOREGROUND" value="e7540b"/>
             </value>
         </option>
         <option baseAttributes="DEFAULT_IDENTIFIER" name="DEFAULT_LABEL"/>
@@ -351,7 +351,7 @@
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="F2590C"/>
+                <option name="FOREGROUND" value="e7540b"/>
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
@@ -374,7 +374,7 @@
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="F29718"/>
+                <option name="FOREGROUND" value="fa8d3e"/>
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -506,13 +506,13 @@
         </option>
         <option name="LABEL">
             <value>
-                <option name="FOREGROUND" value="F2590C"/>
+                <option name="FOREGROUND" value="e7540b"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="LOCAL_VARIABLE_ATTRIBUTES"/>
         <option name="MACRONAME">
             <value>
-                <option name="FOREGROUND" value="F29718"/>
+                <option name="FOREGROUND" value="fa8d3e"/>
             </value>
         </option>
         <option baseAttributes="TEXT" name="MACRO_PARAMETER"/>
@@ -533,7 +533,7 @@
         </option>
         <option name="MESSAGE_ARGUMENT">
             <value>
-                <option name="FOREGROUND" value="F29718"/>
+                <option name="FOREGROUND" value="fa8d3e"/>
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -573,7 +573,7 @@
         </option>
         <option name="TAG_ATTR_KEY">
             <value>
-                <option name="FOREGROUND" value="F2590C"/>
+                <option name="FOREGROUND" value="e7540b"/>
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -591,7 +591,7 @@
         </option>
         <option name="TYPEDEF">
             <value>
-                <option name="FOREGROUND" value="F2590C"/>
+                <option name="FOREGROUND" value="e7540b"/>
             </value>
         </option>
         <option name="UNMATCHED_BRACE_ATTRIBUTES">

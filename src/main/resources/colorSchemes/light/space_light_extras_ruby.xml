@@ -47,7 +47,7 @@
     </option>
     <option name="RUBY_HASH_ASSOC">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
@@ -82,12 +82,12 @@
     </option>
     <option name="RUBY_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
@@ -97,7 +97,7 @@
     </option>
     <option name="RUBY_METHOD_NAME">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="RUBY_NTH_REF"/>
@@ -108,12 +108,12 @@
     </option>
     <option name="RUBY_OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="RUBY_PARAMDEF_CALL">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="RUBY_PARAMETER_ID">

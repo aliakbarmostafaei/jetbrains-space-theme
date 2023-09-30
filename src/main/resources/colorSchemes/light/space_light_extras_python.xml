@@ -18,38 +18,38 @@
     </option>
     <option name="PY.BUILTIN_NAME">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="f3721d"/>
         </value>
     </option>
     <option name="PY.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="PY.OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
 
     <option name="PY.PREDEFINED_DEFINITION">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="b373f5"/>
         </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="b373f5"/>
         </value>
     </option>
     <option name="PY.DECORATOR">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="ffaa33"/>
         </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
         <value>
-            <option name="FOREGROUND" value="F29718"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
         </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
@@ -59,7 +59,8 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
         <value>
-            <option name="FOREGROUND" value="c594c5"/>
+            <option name="FOREGROUND" value="9764bb"/>
+            <option name="FONT_TYPE" value="2"/>
         </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -101,19 +102,19 @@
     </option>
     <option name="PY.SELF_PARAMETER">
         <value>
-            <option name="FOREGROUND" value="a37acc"/>
+            <option name="FOREGROUND" value="b373f5"/>
         </value>
     </option>
 
     <!--  Buildout  -->
     <option name="BUILDOUT.KEY">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
         <value>
-            <option name="FOREGROUND" value="F2590C"/>
+            <option name="FOREGROUND" value="e7540b"/>
         </value>
     </option>
     <option name="BUILDOUT.LINE_COMMENT">
