@@ -7,7 +7,8 @@
     "alphaOverlay": "#ffffff30",
     "paperWhite": "#fcfcfc",
     "floralWhite": "#f8f5e9",
-    "seashell": "#fdf3eb",
+    "seashell": "#FFF8F3",
+    "linen": "#FAF2E7",
     "blackPearl": "#1a1c28",
     "charcoal": "#3c3f54",
     "shuttle": "#5c6166",
@@ -123,7 +124,7 @@
       "background": "paperWhite",
       "underlinedTabBackground": "floralWhite",
       "underlineColor": "floralWhite",
-      "hoverBackground": "seashell",
+      "hoverBackground": "linen",
       "inactiveUnderlineColor": "floralWhite",
       "inactiveColoredFileBackground": "paperWhite"
     },
@@ -131,7 +132,7 @@
       "background": "paperWhite",
       "underlinedTabBackground": "floralWhite",
       "underlineColor": "floralWhite",
-      "hoverBackground": "seashell"
+      "hoverBackground": "linen"
     },
     "ToolWindow": {
       "Header": {
