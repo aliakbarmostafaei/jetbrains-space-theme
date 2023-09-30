@@ -9,6 +9,9 @@ A clean, minimal and elegant theme with colors carefully chosen to reduce visual
 
 
 Offered in three colors (Light, Grey, and Dark) and two UI variants (Regular and Contrast)
+
+
+Icon created by The Icon Z from the Noun Project.
 <!-- Plugin description end -->
 
 ## Installation
