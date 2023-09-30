@@ -584,9 +584,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ff"/>
+                <option name="FOREGROUND" value="22a4e6"/>
                 <option name="FONT_TYPE" value="3"/>
-                <option name="ERROR_STRIPE_COLOR" value="ff"/>
+                <option name="ERROR_STRIPE_COLOR" value="e65050"/>
             </value>
         </option>
         <option name="TYPEDEF">
