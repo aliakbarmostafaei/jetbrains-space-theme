@@ -9,6 +9,7 @@ gradleIntelliJPlugin = "1.15.0"
 qodana = "0.1.13"
 kover = "0.7.3"
 python = "232.8660.185"
+pythonForAndroidStudio = "223.8836.26"
 
 [libraries]
 annotations = { group = "org.jetbrains", name = "annotations", version.ref = "annotations" }

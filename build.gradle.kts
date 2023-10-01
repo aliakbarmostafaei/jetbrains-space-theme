@@ -64,6 +64,7 @@ intellij {
     when (type.get()){
         "PY" -> plugins.add("Pythonid")
         "PC" -> plugins.add("PythonCore")
+        "AI" -> plugins.add("PythonCore:${libs.versions.pythonForAndroidStudio.get()}")
         else -> plugins.add("PythonCore:${libs.versions.python.get()}")
     }
 }
