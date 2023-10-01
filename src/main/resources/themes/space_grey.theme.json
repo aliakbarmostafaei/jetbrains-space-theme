@@ -58,6 +58,11 @@
       "color": "charcoal",
       "ContrastBorderColor": "charcoal"
     },
+    "Window": {
+      "border": "0,0,0,0,#1f2430",
+      "undecorated.border": "0,0,0,0,#1f2430"
+    },
+    "windowBorder": "0,0,0,0,#1f2430",
     "Separator.separatorColor": "charcoalLight",
     "Menu": {
       "background": "charcoalLight",

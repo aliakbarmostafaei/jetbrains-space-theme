@@ -16,6 +16,7 @@
     "lunar": "#86878b",
     "aluminium": "#aeafb3",
     "mist": "#cdcfd0",
+    "platinum": "#e6e8e9",
     "pineapple": "#52350B",
     "rust": "#e7540b",
     "carrot": "#f3721d",
@@ -61,13 +62,13 @@
     },
     "Borders": {
       "color": "paperWhite",
-      "ContrastBorderColor": "mist"
+      "ContrastBorderColor": "platinum"
     },
     "Window": {
-      "border": "paperWhite",
-      "undecorated.border": "paperWhite"
+      "border": "0,0,0,0,#fcfcfc",
+      "undecorated.border": "0,0,0,0,#fcfcfc"
     },
-    "windowBorder": "paperWhite",
+    "windowBorder": "0,0,0,0,#fcfcfc",
     "Editor": {
       "background": "paperWhite",
       "foreground": "shuttle"
@@ -141,7 +142,7 @@
     "ToolWindow": {
       "Header": {
         "inactiveBackground": "paperWhite",
-        "borderColor": "mist"
+        "borderColor": "platinum"
       },
       "Button": {
         "selectedBackground": "caramel",

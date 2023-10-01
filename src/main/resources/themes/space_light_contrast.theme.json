@@ -16,6 +16,7 @@
     "lunar": "#86878b",
     "aluminium": "#aeafb3",
     "mist": "#cdcfd0",
+    "platinum": "#e6e8e9",
     "pineapple": "#52350B",
     "rust": "#e55d06",
     "carrot": "#f3721d",
@@ -63,10 +64,10 @@
       "ContrastBorderColor": "mist"
     },
     "Window": {
-      "border": "paperWhite",
-      "undecorated.border": "paperWhite"
+      "border": "0,0,0,0,#fcfcfc",
+      "undecorated.border": "0,0,0,0,#fcfcfc"
     },
-    "windowBorder": "paperWhite",
+    "windowBorder": "0,0,0,0,#fcfcfc",
     "Editor": {
       "background": "paperWhite",
       "foreground": "shuttle",
