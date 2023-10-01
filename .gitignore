@@ -3,3 +3,4 @@
 .qodana
 build
 /secrets.properties
+/TODO.md
