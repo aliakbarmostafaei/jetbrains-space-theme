@@ -134,9 +134,11 @@
       }
     },
     "RunWidget": {
+      "iconColor": "dolphin",
       "runIconColor": "emerald",
-      "runningBackground": "emerald",
-      "stopBackground": "flamingo",
+      "runningIconColor": "pastelRed",
+      "runningBackground": "charcoal",
+      "stopBackground": "charcoal",
       "hoverBackground": "alphaOverlay"
     },
     "Counter": {

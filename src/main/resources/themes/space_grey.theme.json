@@ -5,7 +5,7 @@
   "editorScheme": "/colorSchemes/grey/space_grey.xml",
   "colors": {
     "alphaOverlay": "#ffffff30",
-    "alphaOverlayDarken": "#00000020",
+    "alphaOverlayDarken": "#ffffff20",
     "charcoalDark": "#1a1e28",
     "charcoal": "#1f2430",
     "charcoalLight": "#242936",
@@ -134,9 +134,11 @@
       }
     },
     "RunWidget": {
+      "iconColor": "dolphin",
       "runIconColor": "emerald",
-      "runningBackground": "emerald",
-      "stopBackground": "flamingo",
+      "runningIconColor": "pastelRed",
+      "runningBackground": "charcoal",
+      "stopBackground": "charcoal",
       "hoverBackground": "alphaOverlay"
     },
     "Counter": {

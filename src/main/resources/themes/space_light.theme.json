@@ -4,7 +4,8 @@
   "author": "Ali Akbar Mostafāëi",
   "editorScheme": "/colorSchemes/light/space_light.xml",
   "colors": {
-    "alphaOverlay": "#ffffff30",
+    "alphaOverlay": "#00000016",
+    "alphaOverlayDark": "#00000032",
     "paperWhite": "#fcfcfc",
     "floralWhite": "#fdf8f5",
     "seashell": "#FFF8F3",
@@ -41,7 +42,6 @@
     "cottonCandy": "#ff9ca8"
   },
   "icons": {
-    "/actions/more.svg": "/icons/light/more_dark.svg"
   },
   "ui": {
     "*": {
@@ -149,10 +149,13 @@
       }
     },
     "RunWidget": {
+      "iconColor": "shuttle",
+      "runningIconColor": "blush",
       "runIconColor": "oceanGreen",
-      "runningBackground": "oceanGreen",
-      "stopBackground": "blush",
-      "hoverBackground": "alphaOverlay"
+      "runningBackground": "paperWhite",
+      "stopBackground": "paperWhite",
+      "hoverBackground": "alphaOverlay",
+      "pressedBackground": "alphaOverlayDark"
     },
     "Notification": {
       "background": "seashell",
