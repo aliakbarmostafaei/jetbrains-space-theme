@@ -8,7 +8,7 @@
     <option baseAttributes="SLIM_STATIC_CONTENT" name="SLIM_CALL"/>
     <option name="SLIM_CLASS">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="SLIM_COMMENT">
@@ -19,18 +19,18 @@
     </option>
     <option name="SLIM_DOCTYPE_KWD">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="SLIM_FILTER">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option baseAttributes="SLIM_STATIC_CONTENT" name="SLIM_FILTER_CONTENT"/>
     <option name="SLIM_ID">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="SLIM_INTERPOLATION">
@@ -48,17 +48,17 @@
     </option>
     <option name="SLIM_TAG">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="SLIM_TAG_ATTR_KEY">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SLIM_TAG_START">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
 </list>

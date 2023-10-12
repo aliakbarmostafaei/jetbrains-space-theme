@@ -8,12 +8,12 @@
 
     <option name="PY.IMPORT.MODULE">
       <value>
-        <option name="FOREGROUND" value="5ccfe6"/>
+        <option name="FOREGROUND" value="58b0f5"/>
       </value>
     </option>
     <option name="PY.IMPORT.METHOD">
       <value>
-        <option name="FOREGROUND" value="ffd173"/>
+        <option name="FOREGROUND" value="ffd273"/>
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
@@ -23,12 +23,12 @@
     </option>
     <option name="PY.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="PY.OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
@@ -48,7 +48,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -70,7 +70,7 @@
     </option>
     <option name="PY.STRING">
         <value>
-            <option name="FOREGROUND" value="72D782"/>
+            <option name="FOREGROUND" value="7be179"/>
         </value>
     </option>
     <option name="PY.STRING.B">
@@ -80,7 +80,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="PY.INVALID_STRING_ESCAPE">
@@ -90,17 +90,17 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
         <value>
-            <option name="FOREGROUND" value="f28779"/>
+            <option name="FOREGROUND" value="f77c21"/>
         </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
         <value>
-            <option name="FOREGROUND" value="f28779"/>
+            <option name="FOREGROUND" value="f77c21"/>
         </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
         <value>
-            <option name="FOREGROUND" value="f28779"/>
+            <option name="FOREGROUND" value="f77c21"/>
         </value>
     </option>
     <option name="PY.SELF_PARAMETER">
@@ -112,12 +112,12 @@
     <!-- Buildout -->
     <option name="BUILDOUT.KEY">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="BUILDOUT.KEY_VALUE_SEPARATOR">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="BUILDOUT.LINE_COMMENT">
@@ -128,7 +128,7 @@
     </option>
     <option name="BUILDOUT.SECTION_NAME">
         <value>
-            <option name="FOREGROUND" value="D1BAFF"/>
+            <option name="FOREGROUND" value="f0a9fe"/>
         </value>
     </option>
     <option name="BUILDOUT.VALUE">

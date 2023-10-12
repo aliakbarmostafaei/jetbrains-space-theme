@@ -52,6 +52,7 @@
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_java.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_js.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_json.xml"/>
+        <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_kotlin.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_objectivec.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_puppet.xml"/>
         <additionalTextAttributes scheme="Default" file="colorSchemes/light/space_light_extras_python.xml"/>

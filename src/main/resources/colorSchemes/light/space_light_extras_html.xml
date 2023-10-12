@@ -39,7 +39,7 @@
     </option>
     <option name="HAML_TAG_NAME">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="HAML_TEXT"/>
@@ -75,7 +75,7 @@
     </option>
     <option name="HTML_TAG_NAME">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
 
@@ -88,17 +88,17 @@
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
     <option name="RHTML_EXPRESSION_START_ID">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
     <option name="RHTML_OMIT_NEW_LINE_ID">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
     <option name="RHTML_SCRIPTING_BACKGROUND_ID">
@@ -108,12 +108,12 @@
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
 </list>

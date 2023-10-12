@@ -2,17 +2,17 @@
 <list>
     <option name="GQL_ID">
         <value>
-            <option name="FOREGROUND" value="D1BAFF"/>
+            <option name="FOREGROUND" value="f0a9fe"/>
         </value>
     </option>
     <option name="GQL_INT_LITERAL">
         <value>
-            <option name="FOREGROUND" value="D1BAFF"/>
+            <option name="FOREGROUND" value="f0a9fe"/>
         </value>
     </option>
     <option name="GQL_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="GQL_STRING_LITERAL">

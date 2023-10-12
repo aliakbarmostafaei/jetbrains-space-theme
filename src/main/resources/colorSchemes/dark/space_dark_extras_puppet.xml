@@ -15,19 +15,19 @@
     <option baseAttributes="DEFAULT_BRACKETS" name="PUPPET_BRACKETS"/>
     <option name="PUPPET_CLASS">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_COMMA" name="PUPPET_COMMA"/>
     <option baseAttributes="DEFAULT_DOT" name="PUPPET_DOT"/>
     <option name="PUPPET_ESCAPE_SEQUENCE">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="PUPPET_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="PUPPET_NUMBER">
@@ -37,13 +37,13 @@
     </option>
     <option name="PUPPET_OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_PARENTHS" name="PUPPET_PARENTH"/>
     <option name="PUPPET_REGEX">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="PUPPET_RESOURCE_REFERENCE"/>
@@ -60,7 +60,7 @@
     </option>
     <option name="PUPPET_VARIABLE">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
             <option name="FONT_TYPE" value="2"/>
         </value>
     </option>

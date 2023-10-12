@@ -16,12 +16,12 @@
     <option baseAttributes="OC.DOT" name="OC.COMMA"/>
     <option name="OC.CPP_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="OC.DIRECTIVE">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="OC.DOT"/>
@@ -47,7 +47,7 @@
     </option>
     <option name="OC.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="OC.LINE_COMMENT">
@@ -63,13 +63,13 @@
     </option>
     <option name="OC.NUMBER">
         <value>
-            <option name="FOREGROUND" value="D1BAFF"/>
+            <option name="FOREGROUND" value="f0a9fe"/>
         </value>
     </option>
     <option baseAttributes="OC.DOT" name="OC.OPERATION_SIGN"/>
     <option name="OC.PARAMETER">
         <value>
-            <option name="FOREGROUND" value="D1BAFF"/>
+            <option name="FOREGROUND" value="f0a9fe"/>
         </value>
     </option>
     <option baseAttributes="OC.DOT" name="OC.PARENTHS"/>
@@ -80,7 +80,7 @@
     </option>
     <option name="OC.SELFSUPERTHIS">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
             <option name="FONT_TYPE" value="2"/>
         </value>
     </option>

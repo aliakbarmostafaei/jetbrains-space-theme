@@ -6,6 +6,7 @@
     <option baseAttributes="TEXT" name="JAVA_DOT"/>
     <option baseAttributes="TEXT" name="JAVA_PARENTH"/>
     <option baseAttributes="TEXT" name="JAVA_SEMICOLON"/>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD"/>
 
     <option name="JAVA_BLOCK_COMMENT">
         <value>
@@ -37,11 +38,6 @@
             <option name="FOREGROUND" value="FF3333"/>
         </value>
     </option>
-    <option name="JAVA_KEYWORD">
-        <value>
-            <option name="FOREGROUND" value="FFAE57"/>
-        </value>
-    </option>
     <option name="JAVA_LINE_COMMENT">
         <value>
             <option name="FOREGROUND" value="5C6773"/>
@@ -55,7 +51,7 @@
     </option>
     <option name="JAVA_OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="JAVA_STRING">
@@ -65,7 +61,7 @@
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
 </list>

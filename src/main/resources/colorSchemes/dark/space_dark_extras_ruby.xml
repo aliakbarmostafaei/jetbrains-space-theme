@@ -21,7 +21,7 @@
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="RUBY_CVAR">
@@ -32,7 +32,7 @@
     <option baseAttributes="DEFAULT_DOT" name="RUBY_DOT"/>
     <option name="RUBY_ESCAPE_SEQUENCE">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
@@ -47,7 +47,7 @@
     </option>
     <option name="RUBY_HASH_ASSOC">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
@@ -57,7 +57,7 @@
     </option>
     <option name="RUBY_HEREDOC_ID">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="RUBY_IDENTIFIER">
@@ -82,12 +82,12 @@
     </option>
     <option name="RUBY_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
@@ -108,7 +108,7 @@
     </option>
     <option name="RUBY_OPERATION_SIGN">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="RUBY_PARAMDEF_CALL">
@@ -123,7 +123,7 @@
     </option>
     <option name="RUBY_REGEXP">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_SEMICOLON" name="RUBY_SEMICOLON"/>

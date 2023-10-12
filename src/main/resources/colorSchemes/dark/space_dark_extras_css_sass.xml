@@ -13,7 +13,7 @@
     </option>
     <option name="CSS.IDENT">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="CSS.NUMBER">
@@ -23,7 +23,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -34,7 +34,7 @@
     </option>
     <option name="CSS.TAG_NAME">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="CSS.URL">
@@ -50,12 +50,12 @@
     </option>
     <option name="SASS_DEFAULT">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SASS_EXTEND">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SASS_FUNCTION">
@@ -65,22 +65,22 @@
     </option>
     <option name="SASS_IDENTIFIER">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SASS_IMPORTANT">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SASS_KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SASS_MIXIN">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="SASS_NUMBER">
@@ -90,7 +90,7 @@
     </option>
     <option name="SASS_PROPERTY_NAME">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="SASS_PROPERTY_VALUE">
@@ -105,7 +105,7 @@
     </option>
     <option name="SASS_TAG_NAME">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="SASS_URL">

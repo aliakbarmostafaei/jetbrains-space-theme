@@ -7,12 +7,12 @@
     </option>
     <option name="REST.EXPLICIT">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="REST.FIELD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="REST.FIXED">
@@ -48,7 +48,7 @@
     </option>
     <option name="REST.SECTION.HEADER">
         <value>
-            <option name="FOREGROUND" value="D1BAFF"/>
+            <option name="FOREGROUND" value="f0a9fe"/>
         </value>
     </option>
 </list>

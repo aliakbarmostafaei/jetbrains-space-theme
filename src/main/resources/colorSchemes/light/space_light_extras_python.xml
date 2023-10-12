@@ -8,7 +8,7 @@
 
     <option name="PY.IMPORT.MODULE">
       <value>
-        <option name="FOREGROUND" value="22a4e6"/>
+        <option name="FOREGROUND" value="1e77b8"/>
       </value>
     </option>
     <option name="PY.IMPORT.METHOD">
@@ -18,7 +18,7 @@
     </option>
     <option name="PY.BUILTIN_NAME">
         <value>
-            <option name="FOREGROUND" value="f3721d"/>
+            <option name="FOREGROUND" value="f47b1e"/>
         </value>
     </option>
     <option name="PY.KEYWORD">
@@ -87,12 +87,12 @@
     </option>
     <option name="PY.STRING.B">
         <value>
-            <option name="FOREGROUND" value="6cbf43"/>
+            <option name="FOREGROUND" value="53c538"/>
         </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
         <value>
-            <option name="FOREGROUND" value="4cbf99"/>
+            <option name="FOREGROUND" value="53c538"/>
         </value>
     </option>
     <option name="PY.INVALID_STRING_ESCAPE">

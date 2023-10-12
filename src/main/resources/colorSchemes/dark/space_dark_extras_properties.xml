@@ -2,14 +2,14 @@
 <list>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
         <value>
-            <option name="FOREGROUND" value="e65050"/>
+            <option name="FOREGROUND" value="d51544"/>
             <option name="EFFECT_COLOR" value="ff6666"/>
             <option name="EFFECT_TYPE" value="2"/>
         </value>
     </option>
     <option name="PROPERTIES.KEY">
         <value>
-            <option name="FOREGROUND" value="ffad66"/>
+            <option name="FOREGROUND" value="fa8d3e"/>
             <option name="EFFECT_TYPE" value="1"/>
         </value>
     </option>

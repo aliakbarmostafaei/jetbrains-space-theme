@@ -25,19 +25,19 @@
     </option>
     <option name="COFFEESCRIPT.COLON">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_COMMA" name="COFFEESCRIPT.COMMA"/>
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.DOT"/>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.EXISTENTIAL">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
@@ -47,12 +47,12 @@
     </option>
     <option name="COFFEESCRIPT.FUNCTION">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_BINDING">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
@@ -72,29 +72,29 @@
     </option>
     <option name="COFFEESCRIPT.HEREDOC_ID">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.HEREGEX_CONTENT">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option baseAttributes="TEXT" name="COFFEESCRIPT.IDENTIFIER"/>
     <option baseAttributes="DEFAULT_STRING" name="COFFEESCRIPT.JAVASCRIPT_CONTENT"/>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.KEYWORD">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
@@ -116,7 +116,7 @@
     </option>
     <option name="COFFEESCRIPT.OPERATIONS">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_PARENTHS" name="COFFEESCRIPT.PARENTHESIS"/>
@@ -128,17 +128,17 @@
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.RANGE"/>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_CONTENT">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_FLAG">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_ID">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_SEMICOLON" name="COFFEESCRIPT.SEMICOLON"/>
@@ -150,12 +150,12 @@
     </option>
     <option name="COFFEESCRIPT.STRING_LITERAL">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="COFFEESCRIPT.THIS">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
             <option name="FONT_TYPE" value="2"/>
         </value>
     </option>

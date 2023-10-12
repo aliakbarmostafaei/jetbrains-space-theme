@@ -2,7 +2,7 @@
 <list>
     <option name="HAML_CLASS">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="HAML_COMMENT">
@@ -15,7 +15,7 @@
     <option baseAttributes="HAML_TEXT" name="HAML_FILTER_CONTENT"/>
     <option name="HAML_ID">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option baseAttributes="HAML_TEXT" name="HAML_LINE_CONTINUATION"/>
@@ -34,7 +34,7 @@
     </option>
     <option name="HAML_TAG">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="HAML_TAG_NAME">
@@ -47,7 +47,7 @@
     <option baseAttributes="HAML_TEXT" name="HAML_XHTML"/>
     <option name="HTML_ATTRIBUTE_NAME">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -70,7 +70,7 @@
     </option>
     <option name="HTML_TAG">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -101,7 +101,7 @@
     </option>
     <option name="RHTML_SCRIPTING_BACKGROUND_ID">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">

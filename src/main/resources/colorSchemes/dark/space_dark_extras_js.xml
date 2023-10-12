@@ -2,7 +2,7 @@
 <list>
     <option name="JS.GLOBAL_VARIABLE">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
             <option name="FONT_TYPE" value="2"/>
         </value>
     </option>
@@ -13,7 +13,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
             <option name="FONT_TYPE" value="2"/>
         </value>
     </option>
@@ -24,7 +24,7 @@
     </option>
     <option name="JS.REGEXP">
         <value>
-            <option name="FOREGROUND" value="b2f589"/>
+            <option name="FOREGROUND" value="60e173"/>
         </value>
     </option>
 
@@ -77,7 +77,7 @@
     </option>
     <option name="JADE_STATEMENTS">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
 </list>

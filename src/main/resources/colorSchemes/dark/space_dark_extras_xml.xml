@@ -2,12 +2,12 @@
 <list>
     <option name="XML_ATTRIBUTE_NAME">
         <value>
-            <option name="FOREGROUND" value="FFAE57"/>
+            <option name="FOREGROUND" value="ffc13c"/>
         </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
         <value>
-            <option name="FOREGROUND" value="72D782"/>
+            <option name="FOREGROUND" value="7be179"/>
         </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -22,7 +22,7 @@
     </option>
     <option name="XML_TAG">
         <value>
-            <option name="FOREGROUND" value="5CCFE6"/>
+            <option name="FOREGROUND" value="58b0f5"/>
         </value>
     </option>
     <option name="XML_TAG_DATA">

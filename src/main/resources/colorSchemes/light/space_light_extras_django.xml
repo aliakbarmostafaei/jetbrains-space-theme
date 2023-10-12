@@ -33,7 +33,7 @@
     </option>
     <option name="DJANGO_TAG_NAME">
         <value>
-            <option name="FOREGROUND" value="E7C547"/>
+            <option name="FOREGROUND" value="ff3d00"/>
         </value>
     </option>
     <option baseAttributes="DEFAULT_BRACES" name="DJANGO_TAG_START_END"/>

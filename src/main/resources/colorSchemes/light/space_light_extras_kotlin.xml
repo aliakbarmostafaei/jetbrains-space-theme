@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<list>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES"/>
+    <option name="KOTLIN_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
+    <option name="KOTLIN_MUTABLE_VARIABLE" baseAttributes="KOTLIN_LOCAL_VARIABLE"/>
+    <option name="KOTLIN_EXTENSION_PROPERTY" baseAttributes="DEFAULT_STATIC_FIELD"/>
+    <option name="KOTLIN_INSTANCE_PROPERTY" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
+
+    <option name="KOTLIN_WRAPPED_INTO_REF">
+        <value>
+            <option name="FOREGROUND" value="282e3a"/>
+        </value>
+    </option>
+
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+        <value>
+            <option name="FOREGROUND" value="f55615"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="KOTLIN_SUSPEND_FUNCTION_CALL">
+        <value>
+            <option name="FOREGROUND" value="f66639"/>
+            <option name="FONT_TYPE" value="2"/>
+        </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+        <value>
+            <option name="FOREGROUND" value="f55615"/>
+            <option name="FONT_TYPE" value="3"/>
+        </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+        <value>
+            <option name="FOREGROUND" value="b373f5"/>
+            <option name="FONT_TYPE" value="3"/>
+        </value>
+    </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+        <value>
+            <option name="FOREGROUND" value="9452c8"/>
+        </value>
+    </option>
+
+</list>
