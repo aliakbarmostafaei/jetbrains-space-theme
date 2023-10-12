@@ -162,6 +162,9 @@
       "borderColor": "Beige02",
       "separatorColor": "Beige02"
     },
+    "MenuItem": {
+      "background": "Beige02"
+    },
     "CompletionPopup": {
       "matchForeground": "DeepOrange06",
       "selectionInactiveBackground": "Blue01"

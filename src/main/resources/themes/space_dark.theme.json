@@ -139,6 +139,9 @@
       "borderColor": "Grey08",
       "separatorColor": "Grey08"
     },
+    "MenuItem": {
+      "background": "Grey08"
+    },
     "PopupMenu": {
       "translucentBackground": "Grey08",
       "background": "Grey08"
