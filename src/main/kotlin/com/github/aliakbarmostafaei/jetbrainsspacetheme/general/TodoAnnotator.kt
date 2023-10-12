@@ -8,19 +8,20 @@ import com.intellij.openapi.util.TextRange
 import com.intellij.psi.PsiComment
 import com.intellij.psi.PsiElement
 import com.intellij.refactoring.suggested.endOffset
-import com.intellij.util.text.findTextRange
 
 class TodoAnnotator : Annotator {
+    object Holder {
+        val tags = arrayOf("TODO", "FIXME", "BUG", "HACK")
+    }
     override fun annotate(element: PsiElement, holder: AnnotationHolder) {
         if (element is PsiComment) {
-            val comment = element.text
+            val comment = element.text.trimStart()
             val elementTextRange = element.textRange
-            val tags = arrayOf("TODO", "FIXME", "BUG", "HACK")
 
-            tags.forEach { tag ->
-                val tagTextRange = comment.findTextRange(tag)
-                tagTextRange?.let {textRange ->
-
+            Holder.tags.forEach { tag ->
+                val tagRegex = "\\b$tag\\b".toRegex()
+                val tagMatch = tagRegex.find(comment)
+                tagMatch?.let {
                     val tagAttr =
                         TextAttributesKey.createTextAttributesKey(CommentBundle.message("space.colors.${tag.lowercase()}.tag.namespace"))
                     val descAttr =
@@ -30,8 +31,8 @@ class TodoAnnotator : Annotator {
                         .newSilentAnnotation(HighlightSeverity.INFORMATION)
                         .range(
                             TextRange(
-                                elementTextRange.startOffset + textRange.startOffset,
-                                elementTextRange.startOffset + textRange.endOffset
+                                elementTextRange.startOffset + it.range.first,
+                                elementTextRange.startOffset + it.range.last + 1
                             )
                         )
                         .textAttributes(tagAttr)
@@ -39,7 +40,7 @@ class TodoAnnotator : Annotator {
 
                     holder
                         .newSilentAnnotation(HighlightSeverity.INFORMATION)
-                        .range(TextRange(elementTextRange.startOffset + textRange.endOffset, element.endOffset))
+                        .range(TextRange(elementTextRange.startOffset + it.range.last + 1, element.endOffset))
                         .textAttributes(descAttr)
                         .create()
                 }
