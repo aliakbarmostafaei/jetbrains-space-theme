@@ -4,6 +4,7 @@
   "author": "Ali Akbar Mostafāëi",
   "editorScheme": "/colorSchemes/lightContrast/space_light_contrast.xml",
   "colors": {
+    "alphaOverlayLight": "#ffffff08",
     "alphaOverlay": "#00000018",
     "alphaOverlayDark": "#00000032",
 
@@ -205,14 +206,15 @@
       "background": "Beige01",
       "underlinedTabBackground": "Beige04",
       "underlineColor": "Beige04",
+      "inactiveUnderlineColor": "Beige04",
       "hoverBackground": "Beige05",
-      "inactiveColoredFileBackground": "Beige01",
-      "inactiveUnderlineColor": "Beige01"
+      "inactiveColoredFileBackground": "alphaOverlayLight"
     },
     "DefaultTabs": {
       "background": "Beige01",
       "underlinedTabBackground": "Beige04",
       "underlineColor": "Bronze04",
+      "inactiveUnderlineColor": "Beige04",
       "hoverBackground": "Beige05"
     },
     "ToolWindow": {
