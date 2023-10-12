@@ -146,8 +146,13 @@
       "background": "Grey08"
     },
     "Popup": {
-      "inactiveBorderColor": "Grey09",
-      "innerBorderColor": "Grey09"
+      "background": "Grey08",
+      "inactiveBorderColor": "Grey08",
+      "borderColor": "Grey08",
+      "Header": {
+        "activeBackground": "Grey08",
+        "inactiveBackground": "Grey08"
+      }
     },
     "CompletionPopup": {
       "matchForeground": "DeepOrange07",

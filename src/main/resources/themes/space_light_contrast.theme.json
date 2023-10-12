@@ -154,8 +154,13 @@
       "background": "Beige02"
     },
     "Popup": {
+      "background": "Beige02",
       "inactiveBorderColor": "Beige02",
-      "innerBorderColor": "Beige02"
+      "borderColor": "Beige02",
+      "Header": {
+        "activeBackground": "Beige02",
+        "inactiveBackground": "Beige02"
+      }
     },
     "Menu": {
       "background": "Beige02",
@@ -238,7 +243,7 @@
       "pressedBackground": "alphaOverlayDark"
     },
     "Notification": {
-      "background": "Beige05",
+      "background": "Beige03",
       "borderColor": "Bronze01",
       "errorBorderColor": "Rose02",
       "Button": {
