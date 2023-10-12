@@ -135,16 +135,16 @@
     "windowBorder": "0,0,0,0,#0e1017",
     "Separator.separatorColor": "Grey08",
     "Menu": {
-      "background": "Grey08",
-      "borderColor": "Grey08",
-      "separatorColor": "Grey08"
+      "background": "Grey09",
+      "borderColor": "Grey09",
+      "separatorColor": "Grey09"
     },
     "MenuItem": {
-      "background": "Grey08"
+      "background": "Grey09"
     },
     "PopupMenu": {
-      "translucentBackground": "Grey08",
-      "background": "Grey08"
+      "translucentBackground": "Grey09",
+      "background": "Grey09"
     },
     "Popup": {
       "inactiveBorderColor": "Grey09",
