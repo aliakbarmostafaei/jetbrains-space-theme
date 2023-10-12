@@ -1,14 +1,14 @@
 # Space Theme for JetBrains IDEs
 
 ![Build](https://github.com/aliakbarmostafaei/jetbrains-space-theme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/22784-space-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22784-space-theme.svg)](https://plugins.jetbrains.com/plugin/22784-space-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/22784-space-theme.svg)](https://plugins.jetbrains.com/plugin/22784-space-theme)
 
 <!-- Plugin description -->
-A clean, minimal and elegant theme with colors carefully chosen to reduce visual load and eye strain.
+A clean, minimal and elegant theme with colors that pop.
 
 
-Offered in three colors (Light, Grey, and Dark) and two UI variants (Regular and Contrast)
+Offered in three colors (Light, Grey, and Dark) and two UI variants (Flat and Contrast)
 
 
 Icon created by The Icon Z from the Noun Project.
