@@ -4,6 +4,17 @@
 
 ## [Unreleased]
 
+## [1.0.231013] - 2023-10-13
+
+### Changed
+- Popups are now flat and consistent with the rest of the UI
+- RunWidget backgrounds are now less bright on 'Grey Contrast'
+
+### Fixed
+- Fixed TODO tags highlighting to only match exact words not substrings
+- Fixed Menu items inconsistency coloring on 2023 EAP versions
+
+
 ## [1.0.231012] - 2023-10-12
 ### Added
 - Added comment highlighting for special tags [TODO, FIXME, HACK, BUG]
