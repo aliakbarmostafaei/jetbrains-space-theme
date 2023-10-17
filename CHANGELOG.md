@@ -4,6 +4,16 @@
 
 ## [Unreleased]
 
+## [1.0.231018] - 2023-10-18
+
+### Changed
+
+- TODO tags [TODO, FIXME, HACK, BUG] in the 'Light' have now a light foreground to be more consistent
+
+### Fixed
+
+- Fixed TODO tags showing as error stripes in the codelens
+
 ## [1.0.231013] - 2023-10-13
 
 ### Changed
