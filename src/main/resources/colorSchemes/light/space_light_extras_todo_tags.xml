@@ -11,36 +11,32 @@
     <option name="TODO_TAG_ATTRIBUTES">
         <value>
             <option name="BACKGROUND" value="4bd25f"/>
-            <option name="FOREGROUND" value="1f2430"/>
+            <option name="FOREGROUND" value="fcfcfc"/>
             <option name="FONT_TYPE" value="3"/>
-            <option name="ERROR_STRIPE_COLOR" value="d51544"/>
         </value>
     </option>
 
     <option name="FIXME_TAG_ATTRIBUTES">
         <value>
             <option name="BACKGROUND" value="f77c21"/>
-            <option name="FOREGROUND" value="1f2430"/>
+            <option name="FOREGROUND" value="fcfcfc"/>
             <option name="FONT_TYPE" value="3"/>
-            <option name="ERROR_STRIPE_COLOR" value="d51544"/>
         </value>
     </option>
 
     <option name="BUG_TAG_ATTRIBUTES">
         <value>
             <option name="BACKGROUND" value="d51544"/>
-            <option name="FOREGROUND" value="1a1e28"/>
+            <option name="FOREGROUND" value="fcfcfc"/>
             <option name="FONT_TYPE" value="3"/>
-            <option name="ERROR_STRIPE_COLOR" value="d51544"/>
         </value>
     </option>
 
     <option name="HACK_TAG_ATTRIBUTES">
         <value>
             <option name="BACKGROUND" value="ffc547"/>
-            <option name="FOREGROUND" value="1f2430"/>
+            <option name="FOREGROUND" value="5d2f24"/>
             <option name="FONT_TYPE" value="3"/>
-            <option name="ERROR_STRIPE_COLOR" value="d51544"/>
         </value>
     </option>
 
