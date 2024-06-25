@@ -24,7 +24,6 @@
 
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.lang</depends>
-    <depends optional="true" config-file="plugin-python.xml">com.intellij.modules.python</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="278be86d-83f8-49be-89d6-08aa13e411f1" path="/themes/space_light.theme.json"/>

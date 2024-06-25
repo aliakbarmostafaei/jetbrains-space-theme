@@ -1,8 +1,10 @@
+
 import org.jetbrains.changelog.Changelog
 import org.jetbrains.changelog.markdownToHTML
 import java.io.FileInputStream
 import java.io.FileNotFoundException
 import java.util.*
+
 
 fun properties(key: String) = providers.gradleProperty(key)
 fun environment(key: String) = providers.environmentVariable(key)
@@ -54,18 +56,23 @@ kotlin {
 
 // Configure Gradle IntelliJ Plugin - read more: https://plugins.jetbrains.com/docs/intellij/tools-gradle-intellij-plugin.html
 intellij {
-    pluginName = properties("pluginName")
-    version = properties("platformVersion")
     type = properties("platformType")
-
+    pluginName = properties("pluginName")
     // Plugin Dependencies. Uses `platformPlugins` property from the gradle.properties file.
     plugins = properties("platformPlugins").map { it.split(',').map(String::trim).filter(String::isNotEmpty) }
 
-    when (type.get()){
-        "PY" -> plugins.add("Pythonid")
-        "PC" -> plugins.add("PythonCore")
-        "AI" -> plugins.add("PythonCore:${libs.versions.pythonForAndroidStudio.get()}")
-        else -> plugins.add("PythonCore:${libs.versions.python.get()}")
+    val platformUseLocalDist = properties("platformUseLocalDist").get().toBoolean()
+    val localPlatformPath = System.getProperty("user.home") + "/Apps/idea-ce"
+    if (platformUseLocalDist) {
+        if (File(localPlatformPath).exists()) {
+            println("Local IntelliJ IDE found in '$localPlatformPath', using to run plugin...")
+            localPath = localPlatformPath
+        } else {
+            println("`platformUseLocalDist` was set to `true` but no instance of an IntelliJ IDE was found in '$localPlatformPath', downloading one as specified by the `platformXXX` properties")
+            version = properties("platformVersion")
+        }
+    } else {
+        version = properties("platformVersion")
     }
 }
 
@@ -75,19 +82,13 @@ changelog {
     repositoryUrl = properties("pluginRepositoryUrl")
 }
 
-// Configure Gradle Qodana Plugin - read more: https://github.com/JetBrains/gradle-qodana-plugin
-qodana {
-    cachePath = provider { file(".qodana").canonicalPath }
-    reportPath = provider { file("build/reports/inspections").canonicalPath }
-    saveReport = true
-    showReport = environment("QODANA_SHOW_REPORT").map { it.toBoolean() }.getOrElse(false)
-}
-
 // Configure Gradle Kover Plugin - read more: https://github.com/Kotlin/kotlinx-kover#configuration
-koverReport {
-    defaults {
-        xml {
-            onCheck = true
+kover {
+    reports {
+        total {
+            xml {
+                onCheck = true
+            }
         }
     }
 }
