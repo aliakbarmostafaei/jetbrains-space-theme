@@ -200,7 +200,7 @@
       "pressedBorderColor": "Blue09"
     },
     "EditorTabs": {
-      "underlinedTabBackground": "Gery10",
+      "underlinedTabBackground": "Grey10",
       "underlineColor": "Yellow04",
       "inactiveUnderlineColor": "Orange10",
       "inactiveColoredFileBackground": "alphaOverlayDarker",

@@ -16,10 +16,10 @@
         <option name="GUTTER_BACKGROUND" value="0e1017"/>
         <option name="LINE_NUMBERS_COLOR" value="4b5059"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a1a3ab"/>
-        <option name="INDENT_GUIDE" value="192233"/>
-        <option name="SELECTED_INDENT_GUIDE" value="606F80"/>
-        <option name="VISUAL_INDENT_GUIDE" value="2b2d30"/>
-        <option name="RIGHT_MARGIN_COLOR" value="222e45"/>
+        <option name="INDENT_GUIDE" value="1f2430"/>
+        <option name="SELECTED_INDENT_GUIDE" value="2c3342"/>
+        <option name="VISUAL_INDENT_GUIDE" value="2c3342"/>
+        <option name="RIGHT_MARGIN_COLOR" value="242936"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="2b2d30"/>
 
         <option name="ERROR_HINT" value="402929"/>
