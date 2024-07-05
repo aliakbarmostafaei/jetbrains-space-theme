@@ -12,13 +12,16 @@
 
     <change-notes><![CDATA[
     <br/>
-    <h2>[1.0.231018] - 2023-10-18</h2>
+    <h2>[1.0.240705] - 2024-07-05</h2>
 
     <h3>Changed</h3>
-    - TODO tags [TODO, FIXME, HACK, BUG] in the 'Light' have now a light foreground to be more consistent
+    - 2024.1.* compatibility
+    - Removed dependency on Python plugin, now lighter and more compatible
+    - [Light Contrast] Editor background is now a lighter variant of sepia
+    - [Grey, Grey Contrast, Dark] Guideline colors are now less bright and consistent with the background
 
     <h3>Fixed</h3>
-    - Fixed TODO tags showing as error stripes in the codelens
+    - [Dark] Wrong color for the tab background caused by a typo
 
     ]]></change-notes>
 
