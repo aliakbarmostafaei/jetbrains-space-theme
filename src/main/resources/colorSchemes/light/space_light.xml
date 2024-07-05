@@ -469,8 +469,12 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="e4e4ff"/>
-                <option name="ERROR_STRIPE_COLOR" value="ccccff"/>
+                <option name="BACKGROUND" value="FCE1BB"/>
+            </value>
+        </option>
+        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="FAE5C8"/>
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -600,12 +604,6 @@
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="7e8a"/>
-            </value>
-        </option>
-        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-            <value>
-                <option name="BACKGROUND" value="ffe4ff"/>
-                <option name="ERROR_STRIPE_COLOR" value="ffcdff"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

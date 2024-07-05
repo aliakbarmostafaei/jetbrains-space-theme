@@ -2,7 +2,7 @@
     <colors>
         <option name="CARET_COLOR" value="FF6A00"/>
         <option name="CARET_ROW_COLOR" value="fbeed5"/>
-        <option name="SELECTION_BACKGROUND" value="a6d2ff"/>
+        <option name="SELECTION_BACKGROUND" value="FADDB8"/>
         <option name="SELECTION_FOREGROUND" value=""/>
         <option name="TEARLINE_COLOR" value="d4d4d4"/>
         <option name="METHOD_SEPARATORS_COLOR" value="dfe1e5"/>
@@ -60,7 +60,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="282e3a"/>
-                <option name="BACKGROUND" value="f8f4e3"/>
+                <option name="BACKGROUND" value="fff8f2"/>
             </value>
         </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes=""/>
@@ -469,8 +469,12 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="e4e4ff"/>
-                <option name="ERROR_STRIPE_COLOR" value="ccccff"/>
+                <option name="BACKGROUND" value="FCE1BB"/>
+            </value>
+        </option>
+        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="FAE5C8"/>
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -600,12 +604,6 @@
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="7e8a"/>
-            </value>
-        </option>
-        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-            <value>
-                <option name="BACKGROUND" value="ffe4ff"/>
-                <option name="ERROR_STRIPE_COLOR" value="ffcdff"/>
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

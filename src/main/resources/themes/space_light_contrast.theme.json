@@ -20,8 +20,8 @@
     "Grey10": "#1e2430",
 
     "Beige01": "#fcfcfc",
-    "Beige02": "#fdf8f5",
-    "Beige03": "#fff8f3",
+    "Beige02": "#fdf8f1",
+    "Beige03": "#fff8f2",
     "Beige04": "#f8f4e3",
     "Beige05": "#faf2e1",
     "Beige06": "#fbecd5",
@@ -212,17 +212,17 @@
     },
     "EditorTabs": {
       "background": "Beige01",
-      "underlinedTabBackground": "Beige04",
-      "underlineColor": "Beige04",
-      "inactiveUnderlineColor": "Beige04",
+      "underlinedTabBackground": "Beige03",
+      "underlineColor": "Beige03",
+      "inactiveUnderlineColor": "Beige03",
       "hoverBackground": "Beige05",
       "inactiveColoredFileBackground": "alphaOverlayLight"
     },
     "DefaultTabs": {
       "background": "Beige01",
-      "underlinedTabBackground": "Beige04",
+      "underlinedTabBackground": "Beige03",
       "underlineColor": "Bronze04",
-      "inactiveUnderlineColor": "Beige04",
+      "inactiveUnderlineColor": "Beige03",
       "hoverBackground": "Beige05"
     },
     "ToolWindow": {
